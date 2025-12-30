@@ -20,3 +20,4 @@ The dashboard enables health centers to:
 - Identify cost drivers and high-utilization areas
 - Monitor trends in claims and PMPM over time
 - Support leadership decisions for care management and cost containment
+![Dashboard Screenshot] (Screenshot 2025-12-29 193531.png)
