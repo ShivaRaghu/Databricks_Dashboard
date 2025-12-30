@@ -13,7 +13,7 @@ This dashboard tracks healthcare claims data to provide actionable insights for 
 ## Access the Dashboard
 > **Note:** Databricks dashboards require login credentials. Screenshots and exported visuals are provided here for public reference.
 
-[Insert link to exported visuals or screenshots here](https://dbc-664d2dda-03ca.cloud.databricks.com/dashboardsv3/01f0e4f4b7b8123aa5e337b503fc477b/published?o=1770108437832556&f_5b8a5399%7Ec68b3885=2025-01-01T00%253A00%253A00.000)
+[Explore Databricks Dashboard here](https://dbc-664d2dda-03ca.cloud.databricks.com/dashboardsv3/01f0e4f4b7b8123aa5e337b503fc477b/published?o=1770108437832556&f_5b8a5399%7Ec68b3885=2025-01-01T00%253A00%253A00.000)
 
 ## Purpose
 The dashboard enables health centers to:
