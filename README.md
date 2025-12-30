@@ -22,4 +22,4 @@ The dashboard enables health centers to:
 - Support leadership decisions for care management and cost containment
 
 
-![Dashboard Screenshot] (Screenshot 2025-12-29 193531.png)
+![Dashboard Screenshot] ([Screenshot 2025-12-29 193531.png](https://github.com/ShivaRaghu/Databricks_Dashboard/blob/main/Screenshot%202025-12-29%20193531.png))
