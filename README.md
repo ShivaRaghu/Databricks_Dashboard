@@ -21,5 +21,5 @@ The dashboard enables health centers to:
 - Monitor trends in claims and PMPM over time
 - Support leadership decisions for care management and cost containment
 
-![Healthcare Claims Dashboard](https://github.com/ShivaRaghu/Databricks_Dashboard/blob/main/Screenshot%202025-12-29%20193531.png)
+![Healthcare Claims Dashboard](https://github.com/ShivaRaghu/Databricks_Dashboard/blob/main/Screenshot%202025-12-29%20193531.png?raw=true)
 
