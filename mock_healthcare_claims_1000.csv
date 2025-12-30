@@ -1,0 +1,1001 @@
+Member ID,Member Name,Claim Date,ICD Code,CPT Code,Cost,Category,Provider
+M19474,Mike Walker,2025-10-07,I10,81001,1982.8,Specialist Visit,Provider 13
+M78062,Christina Lopez,2025-02-28,Z00.00,99213,1289.39,Lab,Provider 6
+M15384,Amy Rodriguez,2025-08-20,J45.909,36415,963.47,Specialist Visit,Provider 20
+M64172,Jennifer Phillips,2025-05-19,E11.9,99395,374.18,Primary Care,Provider 8
+M20532,Michelle Jensen,2024-12-27,N18.9,93000,1757.84,Preventive,Provider 1
+M98051,Courtney Campos,2024-12-24,Z00.00,99214,1074.62,Specialist Visit,Provider 1
+M37484,Robert Nguyen,2025-07-15,R51,93000,656.74,Specialist Visit,Provider 16
+M34556,Robin Ayala,2025-02-03,E11.9,36415,1118.91,Specialist Visit,Provider 12
+M12748,Erica Stein,2025-04-18,E11.9,99395,467.17,ER,Provider 6
+M64673,Lisa Freeman,2025-04-22,N18.9,99214,1775.07,Primary Care,Provider 20
+M20114,Mark Parrish,2025-07-24,J45.909,99213,985.57,Specialist Visit,Provider 19
+M16239,David Bennett,2025-08-19,I10,90471,1876.12,Preventive,Provider 18
+M38351,Jeffrey Smith,2025-01-21,M54.5,99215,1563.17,Preventive,Provider 7
+M14081,Angel Phillips,2025-05-14,Z00.00,80053,1398.12,ER,Provider 11
+M43810,Roberto Gonzalez,2025-02-12,J45.909,90471,1232.75,Lab,Provider 15
+M11675,Sheryl Fields,2025-05-27,N18.9,93000,403.22,Radiology,Provider 2
+M26099,Anthony Mayo,2024-12-12,Z00.00,36415,989.67,Specialist Visit,Provider 19
+M94267,Jessica Martinez,2024-11-24,R51,80053,649.76,ER,Provider 11
+M81882,Mary Daugherty,2024-11-19,M54.5,99214,1705.94,Preventive,Provider 7
+M33873,Alyssa Taylor,2025-10-24,F32.9,99395,1345.42,Preventive,Provider 2
+M97384,Kerry Blackwell,2025-09-07,I10,36415,281.85,Specialist Visit,Provider 20
+M13375,Victoria Clark,2025-05-16,F32.9,99213,151.5,Primary Care,Provider 7
+M19475,Stephanie Rodgers,2025-05-09,J45.909,80053,802.7,Lab,Provider 14
+M43408,Lauren Hill,2025-03-06,M54.5,93000,245.42,Primary Care,Provider 9
+M63224,Ashley Tran,2024-12-06,I10,81001,1367.97,Primary Care,Provider 12
+M68193,Benjamin Lowe,2025-04-14,M54.5,99214,1137.27,Specialist Visit,Provider 3
+M81320,Tina Torres,2025-10-22,I10,90471,738.09,Inpatient,Provider 4
+M16032,Brittany Keller,2025-03-05,N18.9,81001,1337.77,Lab,Provider 18
+M24735,Jessica Mata,2025-01-07,I10,80053,908.36,ER,Provider 4
+M78369,Austin Alvarado,2025-02-06,M54.5,99214,248.65,ER,Provider 6
+M59495,Diana Carney,2025-04-22,I10,99213,1344.54,Inpatient,Provider 7
+M94869,Hailey Schultz,2025-05-23,R51,99215,1882.71,Specialist Visit,Provider 12
+M96731,Carlos Rodriguez,2024-11-23,I10,99214,1995.22,Primary Care,Provider 9
+M33828,Jeremy Rodriguez,2025-09-04,R51,81001,1210.32,Primary Care,Provider 5
+M32793,Bruce Erickson,2025-08-31,M54.5,99214,1095.87,Radiology,Provider 15
+M94893,Clarence Lang,2024-11-18,E78.5,99214,620.57,Specialist Visit,Provider 3
+M44062,Emily Williams,2025-06-13,Z00.00,93000,1894.38,Radiology,Provider 7
+M78949,Katelyn Adams,2025-10-29,R51,36415,1043.67,Primary Care,Provider 8
+M61874,Jamie Massey,2025-05-24,M54.5,90471,1209.9,ER,Provider 19
+M63575,Colleen Hall,2024-12-28,K21.9,99214,1998.65,Inpatient,Provider 12
+M36927,Stephanie Hernandez,2024-11-22,Z00.00,81001,470.07,Radiology,Provider 6
+M37890,Dorothy Stephenson,2025-05-01,Z00.00,90471,647.11,Lab,Provider 19
+M13946,Jeffrey Tran,2024-11-17,E11.9,99214,1459.24,Lab,Provider 12
+M82257,Debbie Zuniga,2025-06-14,I10,99213,477.76,Preventive,Provider 13
+M80771,Christine Nguyen,2025-02-10,E11.9,81001,504.03,Preventive,Provider 1
+M29998,Christina Wagner,2025-07-09,K21.9,99395,1502.19,Pharmacy,Provider 7
+M74669,Meghan Snyder,2025-03-01,R51,93000,1756.16,Primary Care,Provider 2
+M50992,Lisa Roberts DDS,2025-01-10,Z00.00,80053,268.37,ER,Provider 12
+M57473,Timothy Torres,2025-04-09,I10,80053,1921.21,Preventive,Provider 15
+M81262,James Williamson,2025-10-17,J45.909,81001,967.39,Specialist Visit,Provider 15
+M39845,Jacob Allen,2025-08-24,E78.5,85025,1954.79,Radiology,Provider 14
+M97701,Jonathan Best,2025-10-14,E78.5,99213,1190.67,Pharmacy,Provider 1
+M42293,Jermaine Brown,2025-09-25,J45.909,81001,208.51,Inpatient,Provider 11
+M19208,Wanda Howell,2025-10-12,K21.9,99215,582.69,Inpatient,Provider 2
+M85500,Scott Knox,2025-04-08,R51,99215,1275.39,Specialist Visit,Provider 14
+M47247,Allison Chandler,2025-08-13,Z00.00,85025,1115.25,Pharmacy,Provider 11
+M73501,Heather Turner,2025-07-26,Z00.00,85025,472.45,Primary Care,Provider 2
+M50339,Emma Morton,2024-12-30,K21.9,99215,1400.77,Pharmacy,Provider 4
+M53108,Erica Acosta,2025-03-24,F32.9,90471,1019.26,Radiology,Provider 11
+M45681,Michael Carson,2025-01-27,K21.9,99215,1348.18,Preventive,Provider 15
+M90584,Francis Mullins,2025-07-19,Z00.00,99213,1871.4,Lab,Provider 15
+M98148,Autumn Cruz MD,2025-09-21,N18.9,85025,1363.8,Specialist Visit,Provider 6
+M82628,Robert Walker,2025-01-02,K21.9,36415,1901.58,Primary Care,Provider 5
+M91473,Jason Morales,2024-11-25,J45.909,93000,126.25,Preventive,Provider 4
+M58277,Jamie Fitzpatrick,2025-05-26,J45.909,85025,1342.05,ER,Provider 3
+M28081,Todd Johns,2025-08-10,E11.9,93000,390.74,ER,Provider 13
+M57063,Andrew Berry,2025-08-28,K21.9,85025,1683.96,ER,Provider 10
+M24582,Victoria Morrison,2025-01-22,E78.5,93000,785.92,Specialist Visit,Provider 5
+M85602,David Smith,2025-06-28,Z00.00,36415,225.89,Inpatient,Provider 7
+M83927,David Hernandez,2025-02-28,F32.9,36415,593.22,Inpatient,Provider 3
+M51837,Kenneth Wise,2024-11-26,R51,36415,1181.37,Radiology,Provider 15
+M43019,Megan Woods,2025-10-07,M54.5,90471,1789.02,Specialist Visit,Provider 5
+M81267,Teresa Kent,2025-03-13,Z00.00,99215,479.47,Radiology,Provider 16
+M47231,Brittney Ibarra,2025-10-22,E11.9,36415,730.2,Primary Care,Provider 15
+M76862,Cassandra Davis,2025-01-05,I10,99213,1242.08,Specialist Visit,Provider 19
+M58457,Kevin Moore,2025-05-21,F32.9,99213,1595.14,Lab,Provider 17
+M94263,Dr. Christina Ross MD,2025-01-04,J45.909,99213,1878.16,Pharmacy,Provider 12
+M61237,Austin Young,2024-12-22,K21.9,93000,1088.04,Radiology,Provider 7
+M95219,Christopher Stewart,2025-03-31,I10,36415,240.69,Pharmacy,Provider 4
+M12404,Jason Caldwell,2025-02-01,F32.9,36415,223.34,Specialist Visit,Provider 6
+M79328,Andrew Lewis,2025-04-26,J45.909,93000,243.01,Inpatient,Provider 6
+M55628,Nicholas Fuentes,2025-04-17,N18.9,81001,1376.85,ER,Provider 17
+M47190,Nicholas York,2025-05-19,I10,93000,1989.87,Pharmacy,Provider 7
+M27763,Elizabeth Weaver,2025-03-28,R51,90471,695.85,ER,Provider 19
+M20697,Robert Hutchinson DVM,2025-04-15,M54.5,80053,210.89,Radiology,Provider 14
+M83844,Rachel Edwards,2025-08-19,M54.5,90471,1883.39,Lab,Provider 12
+M57400,Kimberly Hurst,2024-11-25,J45.909,99213,1897.03,Primary Care,Provider 15
+M39925,Lori Sanchez,2024-11-22,J45.909,90471,301.29,Pharmacy,Provider 6
+M65765,Kristen Moore,2025-05-28,M54.5,80053,1915.29,Radiology,Provider 14
+M85557,Jason Skinner,2025-05-21,K21.9,99395,576.7,Specialist Visit,Provider 6
+M66024,Elizabeth Love,2025-01-04,K21.9,36415,1543.32,Radiology,Provider 13
+M81535,Brittany Hunter,2025-09-01,E11.9,85025,714.45,Specialist Visit,Provider 14
+M94197,Karen Brandt,2024-12-10,I10,80053,988.82,Preventive,Provider 19
+M75973,Casey Edwards,2025-01-08,E11.9,99214,1368.38,Radiology,Provider 19
+M35785,Colton Campbell,2025-09-09,F32.9,93000,263.76,Lab,Provider 11
+M16469,Kelly Nguyen,2025-02-09,F32.9,90471,1003.52,ER,Provider 15
+M23886,David Boone,2025-07-17,I10,36415,1990.64,Radiology,Provider 8
+M48647,William Kane,2024-11-14,I10,36415,1500.39,Inpatient,Provider 2
+M89118,Andrew Welch,2025-10-31,R51,85025,197.78,Radiology,Provider 17
+M19330,Evan Scott,2025-01-16,R51,99215,1524.24,Preventive,Provider 18
+M13794,Brittany Wall,2025-09-24,N18.9,90471,1253.11,Inpatient,Provider 20
+M65597,Jennifer Fitzgerald,2025-04-02,K21.9,90471,483.08,Pharmacy,Provider 2
+M33998,Seth Turner,2025-01-17,E78.5,36415,184.47,Lab,Provider 14
+M36586,James Williams,2024-12-29,Z00.00,93000,292.01,Specialist Visit,Provider 19
+M18144,David Wallace,2025-03-28,F32.9,80053,1172.24,Primary Care,Provider 15
+M44558,Christine Valencia,2025-10-04,I10,93000,1381.74,Radiology,Provider 3
+M49289,Amanda James,2025-06-12,E78.5,80053,1420.55,Lab,Provider 7
+M14673,Gina Taylor,2025-09-04,F32.9,85025,524.85,Specialist Visit,Provider 16
+M63634,Rhonda Floyd,2025-07-11,E11.9,99213,1530.45,Pharmacy,Provider 3
+M78635,Jeremy Mitchell,2025-04-30,E78.5,99214,1886.04,Pharmacy,Provider 3
+M33022,John Barnes,2025-06-03,J45.909,81001,1894.39,Specialist Visit,Provider 16
+M29571,Dr. Duane Leon MD,2025-05-13,I10,36415,1313.71,ER,Provider 16
+M16910,Mrs. Stacey Harrell,2025-04-22,I10,93000,1607.96,Radiology,Provider 9
+M91022,Matthew George,2025-06-24,J45.909,81001,1797.39,Pharmacy,Provider 16
+M31811,Jennifer Tucker,2025-08-14,N18.9,80053,1517.73,Specialist Visit,Provider 10
+M91149,Jeffrey Mckee,2025-02-24,F32.9,90471,1471.23,ER,Provider 18
+M69253,Ms. Melanie Shepard MD,2025-05-24,K21.9,93000,1256.49,Radiology,Provider 19
+M49778,Carl White,2025-07-22,Z00.00,80053,1615.64,Specialist Visit,Provider 10
+M22889,Alyssa Martinez,2025-08-07,M54.5,36415,1851.09,Specialist Visit,Provider 8
+M84305,James Kelley,2025-02-28,E11.9,80053,1658.82,Specialist Visit,Provider 8
+M97891,Jennifer Robinson,2024-12-05,Z00.00,99215,1138.26,Inpatient,Provider 1
+M50376,Brandi Smith,2024-12-25,M54.5,99395,662.1,Radiology,Provider 19
+M82429,Eric Castaneda,2025-10-29,J45.909,99214,1907.84,Lab,Provider 3
+M12304,Donna Johnson,2025-08-19,N18.9,99213,1985.06,Specialist Visit,Provider 7
+M38392,Gloria Solis MD,2025-01-30,K21.9,99213,124.8,Preventive,Provider 5
+M35786,Rebecca Garcia,2024-11-14,R51,93000,1406.39,Primary Care,Provider 3
+M61535,Bruce Cook,2025-04-20,I10,93000,1058.75,Specialist Visit,Provider 12
+M79531,William Jacobs,2025-02-26,F32.9,81001,1569.42,Preventive,Provider 14
+M20100,Katherine Baird,2025-06-14,E78.5,80053,393.16,Lab,Provider 1
+M87930,Michael Stark,2025-05-27,N18.9,90471,475.15,Radiology,Provider 6
+M65440,Jeffery Gray,2025-05-20,R51,81001,326.69,Specialist Visit,Provider 19
+M83290,Alex Davis,2025-05-30,E11.9,80053,1784.08,Radiology,Provider 15
+M44469,Carl Young,2025-08-16,I10,99215,1863.35,ER,Provider 10
+M35116,Ariel Bell,2024-12-15,Z00.00,85025,673.34,Inpatient,Provider 7
+M11348,Anthony Perkins,2025-01-31,E78.5,36415,360.38,Primary Care,Provider 5
+M38227,Javier Lam,2025-02-23,F32.9,99395,936.92,Primary Care,Provider 13
+M80818,Larry Wilson,2024-12-29,J45.909,93000,972.22,ER,Provider 8
+M75367,Samantha Ramos,2025-10-20,J45.909,80053,1557.43,Specialist Visit,Provider 16
+M85670,Breanna Smith,2024-12-31,I10,90471,676.03,ER,Provider 8
+M71945,Tyler Lam,2025-11-02,J45.909,93000,203.97,Preventive,Provider 12
+M65612,Stephen Robbins,2025-10-22,J45.909,93000,647.19,Preventive,Provider 5
+M12841,Billy Perez,2025-03-28,K21.9,99215,258.17,Inpatient,Provider 16
+M11494,Denise Smith,2025-09-18,E78.5,85025,956.45,Preventive,Provider 11
+M93380,Aaron Arnold,2025-02-15,N18.9,85025,671.74,Preventive,Provider 15
+M42254,Dale Castro,2025-02-24,N18.9,99213,257.71,ER,Provider 6
+M53325,Latoya Calhoun,2025-07-22,K21.9,85025,1539.16,Specialist Visit,Provider 5
+M44977,Jay Baker Jr.,2025-03-11,I10,36415,432.58,Inpatient,Provider 16
+M39216,Casey Lee,2024-11-30,Z00.00,81001,472.34,Specialist Visit,Provider 7
+M31266,Joe Perez,2025-07-15,R51,36415,628.15,ER,Provider 15
+M74534,Anthony Nelson,2025-08-19,M54.5,93000,1036.8,Radiology,Provider 16
+M54008,Lori Leonard,2025-05-28,I10,85025,798.81,Inpatient,Provider 9
+M50195,Daniel Lewis,2025-02-22,E78.5,81001,1822.81,Lab,Provider 8
+M53723,Connie Garcia,2025-04-27,E11.9,85025,832.31,Radiology,Provider 3
+M32836,Evan Miller,2025-01-27,E11.9,99213,751.19,ER,Provider 10
+M83221,Joshua Koch MD,2025-01-06,M54.5,90471,478.87,Preventive,Provider 20
+M90187,Shelia Gonzalez,2025-07-09,R51,99214,306.56,Primary Care,Provider 19
+M23776,Thomas Torres,2025-02-03,M54.5,80053,1801.74,Pharmacy,Provider 17
+M59507,April Tucker,2025-10-13,K21.9,90471,637.98,Primary Care,Provider 1
+M59733,Brian Maldonado,2025-07-30,E11.9,99214,731.68,Pharmacy,Provider 15
+M48527,Natalie Anderson,2025-03-21,Z00.00,99395,706.67,Primary Care,Provider 17
+M76915,James Leonard,2025-09-04,N18.9,99215,640.6,Inpatient,Provider 16
+M59722,Donna Jimenez,2025-01-09,E78.5,90471,628.5,ER,Provider 1
+M29291,Jonathan Fuller,2025-08-23,J45.909,90471,373.41,Pharmacy,Provider 6
+M27054,Brittany Hernandez,2024-12-01,Z00.00,90471,365.24,Primary Care,Provider 5
+M27139,Kathleen Wolfe,2025-05-14,I10,85025,1774.89,Inpatient,Provider 20
+M95004,Gary Lee,2025-01-06,E11.9,80053,1798.19,Specialist Visit,Provider 6
+M73339,Jason Martinez,2025-09-04,J45.909,80053,1506.33,Inpatient,Provider 17
+M33642,Michael Kelley,2025-05-31,J45.909,99215,1672.84,Radiology,Provider 7
+M14641,Jennifer Knight,2025-02-17,K21.9,81001,612.67,Inpatient,Provider 13
+M25933,Diane Smith,2025-02-26,Z00.00,99214,1999.47,Pharmacy,Provider 9
+M54406,Mathew Johnson,2025-11-03,K21.9,85025,1914.67,Inpatient,Provider 9
+M40843,Carmen Klein,2025-03-30,J45.909,81001,550.88,Preventive,Provider 2
+M33411,Jennifer Strickland,2025-02-20,N18.9,36415,1138.16,Pharmacy,Provider 6
+M14907,Christopher Smith,2025-03-18,R51,90471,1112.61,Inpatient,Provider 17
+M90492,Phillip Hunt,2025-11-03,J45.909,99214,1835.57,Specialist Visit,Provider 1
+M43479,Henry Reeves,2025-02-13,Z00.00,93000,1687.19,Preventive,Provider 10
+M87165,Dana Moss,2025-02-22,K21.9,99215,58.15,Inpatient,Provider 20
+M39281,Christopher Turner,2025-08-22,I10,36415,1818.59,ER,Provider 15
+M11704,Laura Wilson,2025-04-18,N18.9,90471,750.5,ER,Provider 5
+M58122,Karen Harris,2025-09-22,E11.9,99213,1589.95,Preventive,Provider 10
+M39046,Cathy Page,2025-03-06,R51,99215,1310.09,Radiology,Provider 10
+M92619,Nathaniel Walker,2025-04-13,J45.909,90471,1118.82,Lab,Provider 10
+M68972,Alexandra Scott,2025-02-10,M54.5,99215,1709.16,Lab,Provider 12
+M34203,Kevin Flynn,2025-05-18,J45.909,90471,1843.47,Inpatient,Provider 5
+M40367,Megan Hodge,2024-12-05,R51,36415,822.38,Lab,Provider 11
+M31963,Cathy Mccoy,2025-08-14,N18.9,80053,239.98,Primary Care,Provider 15
+M94090,Marc Miller,2025-03-13,M54.5,81001,1915.25,Primary Care,Provider 5
+M81680,April Miller,2025-08-04,Z00.00,90471,507.93,Preventive,Provider 9
+M44979,Ryan Copeland,2025-04-21,F32.9,99395,488.05,Lab,Provider 5
+M36457,Ralph Reilly,2025-07-16,J45.909,99213,1430.73,Pharmacy,Provider 7
+M44557,Jeanne Mathews,2025-08-17,F32.9,99214,1122.55,ER,Provider 19
+M40965,Andrew Hernandez,2025-10-01,K21.9,99215,1337.77,Inpatient,Provider 8
+M22088,James Torres,2025-11-04,M54.5,90471,628.41,Preventive,Provider 4
+M12453,Robert Jacobson,2025-02-05,R51,99395,1366.73,Radiology,Provider 3
+M29023,Cassandra Freeman,2025-02-03,N18.9,99215,1651.71,Primary Care,Provider 18
+M94176,Brandy Grimes,2025-04-08,E78.5,99395,780.73,Pharmacy,Provider 17
+M72212,Ian Ramos,2025-09-02,F32.9,99215,1015.92,Radiology,Provider 2
+M76111,Sarah Johnson,2025-10-16,M54.5,90471,1681.0,Pharmacy,Provider 17
+M88253,Ashlee Copeland,2025-07-06,F32.9,36415,1444.09,Radiology,Provider 20
+M61005,Melissa Horn,2024-11-14,I10,99215,989.28,Lab,Provider 19
+M98724,April Powers,2025-02-21,Z00.00,81001,890.95,Pharmacy,Provider 1
+M10036,Patricia Cochran,2025-05-14,K21.9,90471,336.2,Inpatient,Provider 16
+M77689,James Cunningham,2024-12-19,I10,99395,1628.71,Lab,Provider 6
+M81603,Jacob Wilson,2025-09-30,J45.909,36415,1901.44,Primary Care,Provider 20
+M60509,Dawn Lutz,2024-12-25,R51,85025,1387.66,Primary Care,Provider 17
+M23123,Kenneth Thornton,2025-03-03,K21.9,99213,332.32,Radiology,Provider 19
+M53744,Ryan Deleon,2025-03-09,I10,99214,1595.64,ER,Provider 7
+M25134,Dennis Robertson,2025-02-16,Z00.00,99214,1692.34,Preventive,Provider 9
+M27908,Jessica Thomas,2025-10-28,J45.909,80053,229.29,Inpatient,Provider 10
+M65812,Connie Sutton,2024-11-10,M54.5,99213,98.23,Lab,Provider 7
+M37260,Dennis Gardner,2025-04-17,F32.9,99213,1863.57,Radiology,Provider 14
+M98411,Mark Willis,2025-06-19,E78.5,90471,1558.66,Pharmacy,Provider 16
+M84928,Mrs. Amy Scott,2025-06-01,K21.9,93000,73.37,Radiology,Provider 5
+M72714,Wesley Floyd Jr.,2025-05-27,R51,93000,1298.84,Specialist Visit,Provider 4
+M55109,Zachary Carr,2025-04-03,E11.9,99215,361.35,Primary Care,Provider 4
+M37587,Jeremiah Thompson,2024-11-10,R51,80053,1159.7,Inpatient,Provider 1
+M17102,Valerie Ray,2025-05-06,N18.9,93000,1183.24,Inpatient,Provider 6
+M22463,Michael Moon,2025-03-16,F32.9,81001,879.52,Lab,Provider 12
+M57741,Mary Ward,2025-06-18,E78.5,80053,1328.15,Inpatient,Provider 4
+M52319,Angel Jordan,2025-10-01,K21.9,85025,839.11,Radiology,Provider 9
+M51112,Tamara Benson,2025-03-08,N18.9,93000,1765.89,Inpatient,Provider 2
+M58043,Jessica Dunn,2025-06-11,E11.9,99214,932.48,Inpatient,Provider 15
+M52654,Kathleen Hamilton,2025-11-05,E11.9,81001,523.22,Specialist Visit,Provider 12
+M68236,Tina Avery,2025-07-18,N18.9,90471,1234.8,ER,Provider 2
+M29177,Sandra Anderson,2025-04-09,I10,36415,1538.26,Lab,Provider 2
+M65088,Eric Bell,2025-06-02,E78.5,85025,1128.96,Radiology,Provider 8
+M88902,Hunter Patel,2025-08-16,M54.5,93000,310.69,ER,Provider 9
+M75570,Harold Harris,2025-01-06,Z00.00,99395,1846.04,Radiology,Provider 12
+M61477,Gary Martinez,2025-02-19,F32.9,99214,1783.52,Pharmacy,Provider 16
+M12563,Rachel Barton,2025-09-20,M54.5,99215,603.53,Preventive,Provider 11
+M81063,Johnny Rodgers,2025-10-11,E11.9,99214,1157.94,Preventive,Provider 17
+M77244,Debra Martin,2025-06-17,F32.9,90471,1172.9,Pharmacy,Provider 16
+M70784,Debbie Sharp,2025-08-02,J45.909,80053,1294.57,ER,Provider 3
+M11497,Pamela Price,2025-04-18,E11.9,36415,587.03,Radiology,Provider 10
+M26647,Jason Johnson,2025-07-21,I10,99214,862.91,Radiology,Provider 20
+M11065,Courtney Brooks,2025-03-29,N18.9,80053,1803.4,Preventive,Provider 12
+M31888,Margaret Garcia,2024-12-15,N18.9,85025,1338.35,Specialist Visit,Provider 17
+M52619,Lisa Freeman,2025-07-02,I10,99214,292.24,Primary Care,Provider 9
+M25547,Brandon Allen,2025-05-14,N18.9,85025,1676.56,Radiology,Provider 4
+M74941,Emily Bates,2025-02-03,N18.9,36415,1082.8,Radiology,Provider 8
+M94354,Kevin Maynard,2024-12-16,K21.9,90471,328.75,Radiology,Provider 3
+M30386,Susan Morgan,2025-08-02,J45.909,99214,1050.01,Radiology,Provider 8
+M85992,Christopher Gilbert,2025-10-27,Z00.00,85025,1800.84,Specialist Visit,Provider 12
+M18711,Dominique Carter,2024-12-30,N18.9,99214,1176.82,Inpatient,Provider 18
+M65587,Samantha Howe,2025-06-27,F32.9,99395,1026.84,ER,Provider 6
+M33716,Robin Kelly,2024-12-08,K21.9,80053,172.21,Inpatient,Provider 13
+M48043,Joshua Brown,2025-09-28,I10,99215,1745.87,ER,Provider 15
+M11212,Anthony Walters,2025-03-07,N18.9,99395,1598.17,Lab,Provider 16
+M98791,Corey Young,2025-03-21,R51,80053,910.1,Inpatient,Provider 12
+M99808,Nancy Smith,2025-04-21,K21.9,93000,350.91,Primary Care,Provider 1
+M47890,Gina Nelson,2025-01-25,E78.5,81001,1865.94,Preventive,Provider 15
+M42530,Melissa Hall,2024-11-17,E11.9,80053,464.83,ER,Provider 12
+M13573,Anthony Drake MD,2025-10-02,J45.909,85025,1876.91,Preventive,Provider 4
+M72746,David Moore,2025-03-15,M54.5,85025,1765.09,Radiology,Provider 7
+M67921,Margaret Harvey,2025-01-11,Z00.00,99214,1332.88,Specialist Visit,Provider 16
+M27882,Julie Hall,2024-12-26,M54.5,99215,1734.82,Inpatient,Provider 13
+M80819,Alexandra Kim,2025-04-25,E11.9,93000,505.92,Pharmacy,Provider 20
+M62012,Anthony Mitchell,2025-01-05,R51,85025,1586.85,Pharmacy,Provider 9
+M58420,Ashley Tanner,2025-10-06,N18.9,93000,1857.46,ER,Provider 14
+M73627,Joanna Duke,2025-04-08,E78.5,90471,1560.17,Specialist Visit,Provider 1
+M57538,Crystal Barrera,2025-08-17,J45.909,80053,1974.63,Lab,Provider 6
+M34335,David Gonzalez,2025-06-16,J45.909,93000,730.74,Radiology,Provider 9
+M37974,Gregg Hester,2025-09-12,K21.9,85025,751.97,Specialist Visit,Provider 18
+M17351,Katherine Delgado,2025-02-25,F32.9,99215,245.31,Primary Care,Provider 20
+M66135,Kayla Newton,2024-12-20,E78.5,99395,1291.96,Radiology,Provider 3
+M25948,Christina Hardin,2025-04-08,E78.5,81001,1835.1,Inpatient,Provider 6
+M45541,Kevin Kirk,2025-02-21,E78.5,90471,595.88,Primary Care,Provider 17
+M18739,Kathy Curtis,2025-10-07,K21.9,80053,1234.17,Pharmacy,Provider 20
+M62480,Walter Bailey,2025-11-08,N18.9,81001,143.66,Specialist Visit,Provider 14
+M36280,Scott Smith,2025-09-01,J45.909,80053,1065.24,Radiology,Provider 9
+M96444,Donald Serrano,2025-02-26,F32.9,80053,1389.89,Inpatient,Provider 11
+M74398,Megan Williamson,2025-01-18,R51,81001,1461.42,ER,Provider 16
+M16742,Jeremy Martin,2025-04-25,K21.9,90471,1603.21,Preventive,Provider 18
+M90174,James Lozano,2025-02-18,K21.9,85025,1459.8,Primary Care,Provider 16
+M90217,Janet Miller,2025-04-18,N18.9,99395,551.8,ER,Provider 20
+M55234,Daniel Peterson,2024-11-27,K21.9,99213,348.73,Preventive,Provider 13
+M72056,John Mosley,2025-01-19,M54.5,99395,1821.63,Primary Care,Provider 5
+M23131,Lisa Jones,2025-05-06,K21.9,81001,881.76,Radiology,Provider 14
+M72224,Mark Miller,2025-02-20,F32.9,99214,1606.93,Inpatient,Provider 11
+M74449,Shane Berry,2024-12-12,F32.9,85025,1911.69,Lab,Provider 11
+M62299,Timothy Roberson,2025-09-27,R51,99215,1885.42,Lab,Provider 3
+M84448,Kyle Nelson,2025-08-03,E11.9,80053,1659.11,Pharmacy,Provider 18
+M37977,Michael Fisher,2025-09-03,I10,93000,1254.6,Preventive,Provider 3
+M24592,Michael Weeks,2025-06-06,Z00.00,93000,670.27,Specialist Visit,Provider 5
+M24679,Kenneth Warren,2025-02-25,K21.9,99214,1850.45,Specialist Visit,Provider 3
+M56083,Glen Griffith,2025-04-16,N18.9,80053,191.35,Primary Care,Provider 9
+M77615,Allison Howard,2025-07-25,N18.9,90471,1928.28,Lab,Provider 17
+M34359,Shirley Edwards DDS,2025-02-05,R51,93000,1114.94,Radiology,Provider 17
+M81611,Connor Morris,2025-08-11,F32.9,93000,424.63,Radiology,Provider 20
+M32778,Kathleen Carter,2024-11-12,K21.9,90471,766.02,Primary Care,Provider 11
+M39577,Mary Long,2025-03-20,I10,99215,881.46,Preventive,Provider 15
+M81914,Erik Jordan,2025-02-07,I10,99215,1867.16,Inpatient,Provider 20
+M86794,Rhonda Robbins,2024-12-19,N18.9,36415,331.59,ER,Provider 3
+M22767,Margaret Ramos,2025-07-05,J45.909,80053,1545.3,Radiology,Provider 4
+M46496,Mark Williams,2025-10-13,N18.9,93000,1635.84,Primary Care,Provider 9
+M91739,Robin Gomez,2025-10-21,I10,99214,535.33,Preventive,Provider 20
+M13486,Samuel Brewer,2025-01-22,Z00.00,36415,864.4,Radiology,Provider 1
+M41880,Patricia Brown,2024-12-30,N18.9,99215,503.46,Specialist Visit,Provider 12
+M92694,Dennis Anderson,2025-01-10,N18.9,99215,1382.63,Primary Care,Provider 6
+M58270,Bryan Beck,2025-11-03,E11.9,81001,1088.67,Inpatient,Provider 16
+M88344,Ellen Collins,2025-06-16,Z00.00,99395,287.71,Radiology,Provider 1
+M48232,Christopher Marshall,2025-10-04,R51,99215,1965.3,Radiology,Provider 1
+M64491,Matthew Schroeder,2025-10-08,Z00.00,81001,1102.93,ER,Provider 14
+M51447,Charles Atkinson,2025-07-02,M54.5,90471,116.24,Radiology,Provider 12
+M96583,Jean Harris,2025-10-25,E78.5,90471,268.75,Preventive,Provider 11
+M87290,Zachary Jones,2025-04-20,N18.9,99395,1871.39,Radiology,Provider 12
+M75852,Joshua Wilson,2025-01-23,Z00.00,99395,492.98,Preventive,Provider 8
+M74939,Patrick Combs,2025-10-12,Z00.00,80053,1525.61,Primary Care,Provider 20
+M21096,Rebecca Carroll,2025-05-11,M54.5,99213,232.26,Specialist Visit,Provider 6
+M73432,Dennis Powell,2025-08-20,Z00.00,80053,1110.91,Radiology,Provider 15
+M92232,Charles Mccoy,2025-03-14,J45.909,90471,1822.13,Lab,Provider 5
+M72693,Johnathan Harrison,2025-08-12,F32.9,90471,1344.29,Primary Care,Provider 11
+M87967,Jason Mckinney,2024-11-23,F32.9,93000,1759.08,Primary Care,Provider 6
+M56508,Ms. Crystal Martinez,2025-10-31,K21.9,99395,485.03,Primary Care,Provider 20
+M63634,Jason Oneill,2025-06-17,I10,99214,1174.57,ER,Provider 12
+M42108,Peter Carey,2024-11-29,M54.5,93000,1038.5,Lab,Provider 9
+M19484,Cynthia Warner,2024-11-21,E11.9,90471,1530.21,Specialist Visit,Provider 7
+M25006,Michelle Ryan,2024-11-10,K21.9,36415,981.97,Primary Care,Provider 2
+M89387,Calvin Quinn,2025-05-19,M54.5,99215,1350.95,Radiology,Provider 5
+M49887,Jamie Mitchell,2024-12-26,J45.909,99215,233.17,ER,Provider 10
+M49015,Hannah Allen,2024-11-15,R51,90471,1390.88,Primary Care,Provider 12
+M77817,Jaclyn Jenkins,2025-01-06,F32.9,80053,822.83,ER,Provider 20
+M65935,Terrance Roberts,2024-11-26,I10,99213,1945.4,Pharmacy,Provider 18
+M44686,Jennifer Robinson,2025-09-17,N18.9,36415,1941.35,Primary Care,Provider 12
+M45167,Daniel Flynn,2024-12-08,E11.9,99214,578.17,Primary Care,Provider 15
+M98433,Amanda Freeman,2025-07-23,Z00.00,81001,386.98,Inpatient,Provider 13
+M66047,Zachary Miller,2025-09-29,R51,99395,744.17,Preventive,Provider 17
+M51713,Jennifer Wheeler,2025-10-26,E11.9,99395,165.17,Radiology,Provider 13
+M86653,Amanda Dillon,2025-06-30,R51,85025,1128.93,Preventive,Provider 2
+M44061,Stephanie Rodriguez,2025-01-09,E78.5,99215,1435.95,Primary Care,Provider 5
+M15727,Joseph Perez,2025-09-08,N18.9,93000,740.04,Preventive,Provider 9
+M28402,Jennifer Coleman,2024-11-14,N18.9,85025,871.16,Primary Care,Provider 17
+M15586,David Allen,2024-12-13,N18.9,99213,899.5,Pharmacy,Provider 13
+M83819,Sheryl Massey,2024-12-05,I10,81001,1532.46,Specialist Visit,Provider 6
+M54601,Grant Smith,2025-02-03,E78.5,99215,625.85,Pharmacy,Provider 10
+M69656,Steven Murray,2025-07-13,Z00.00,36415,1835.15,Inpatient,Provider 7
+M25478,Ashley Snyder,2025-06-21,E78.5,93000,1284.69,Radiology,Provider 20
+M47917,Melody Becker,2025-04-27,F32.9,80053,1170.68,Specialist Visit,Provider 3
+M83788,Barbara Bowen,2025-03-25,E78.5,36415,1604.03,Primary Care,Provider 1
+M35554,Stephanie Hinton,2025-09-13,E11.9,80053,1654.05,Pharmacy,Provider 5
+M34439,Christina Castaneda,2025-01-27,K21.9,81001,493.42,ER,Provider 11
+M65116,Stephanie Green,2025-07-25,Z00.00,99214,391.0,Specialist Visit,Provider 4
+M59400,David Cameron,2025-07-07,K21.9,85025,1084.4,Lab,Provider 3
+M82838,Jerry Pham,2025-05-02,Z00.00,99213,1641.52,ER,Provider 20
+M40985,James Miller,2024-11-25,Z00.00,80053,1670.1,Inpatient,Provider 3
+M35819,Scott Winters,2025-08-04,J45.909,36415,562.87,ER,Provider 1
+M49160,Leonard Ware,2024-12-16,I10,90471,59.91,ER,Provider 7
+M83515,Paul Allen,2025-01-26,K21.9,99213,657.83,ER,Provider 8
+M16489,Lisa Wright,2025-08-17,I10,99215,948.72,Preventive,Provider 6
+M40918,Claudia Clark,2025-09-15,I10,93000,1750.17,Specialist Visit,Provider 13
+M41946,Deborah Simmons,2025-10-30,M54.5,99214,511.12,Inpatient,Provider 9
+M60072,Dean Norman,2025-02-06,M54.5,90471,1668.25,Radiology,Provider 1
+M90572,Monica Lawson,2025-08-28,K21.9,99215,240.08,ER,Provider 13
+M62635,Victor Chang,2025-11-04,N18.9,99215,992.22,Specialist Visit,Provider 14
+M72687,Chase Adams,2025-03-03,I10,99213,1715.15,Pharmacy,Provider 17
+M21516,Eric Hernandez,2025-04-30,M54.5,80053,1650.51,Specialist Visit,Provider 2
+M98623,Rodney Barron DVM,2024-11-27,Z00.00,99213,1374.08,Inpatient,Provider 16
+M73967,Randy Lynch,2024-12-23,I10,99395,1164.97,Inpatient,Provider 12
+M54476,Jimmy Gomez,2025-08-15,N18.9,85025,1040.5,Pharmacy,Provider 17
+M46554,Brian Nguyen,2025-03-13,K21.9,99214,931.23,Lab,Provider 5
+M72952,Kyle Willis,2025-10-16,J45.909,99395,333.68,Radiology,Provider 12
+M90311,Gabriella Sanchez,2025-01-03,F32.9,90471,440.08,Lab,Provider 10
+M56428,Mrs. April Wall,2025-01-12,K21.9,99395,771.11,Pharmacy,Provider 7
+M44794,Luke Williams,2025-06-25,R51,36415,1755.6,Inpatient,Provider 14
+M33178,Gregory Fisher,2025-11-05,M54.5,99215,114.82,Primary Care,Provider 1
+M26583,Reginald Jones,2025-07-05,F32.9,99213,1731.45,Inpatient,Provider 5
+M35213,Jose Lewis,2025-06-20,I10,99214,1349.7,Lab,Provider 4
+M65344,Jennifer Tran,2024-12-14,F32.9,99215,1999.4,Lab,Provider 19
+M38625,Devon Barrett,2024-12-17,Z00.00,93000,738.38,Specialist Visit,Provider 7
+M53571,Kristy Baxter,2025-09-21,N18.9,36415,1219.38,Preventive,Provider 16
+M80050,Emily Hicks,2024-12-02,J45.909,99395,1987.97,Inpatient,Provider 2
+M74859,Lisa Hutchinson,2025-01-15,E11.9,81001,226.19,Lab,Provider 19
+M51233,Stacey Bryant,2025-02-26,Z00.00,99395,1914.9,Pharmacy,Provider 12
+M52755,Timothy Morrow,2025-04-27,E11.9,99214,175.46,Lab,Provider 14
+M98653,Grace Blake,2025-07-22,K21.9,99215,139.92,ER,Provider 5
+M66093,Tracy Brooks,2025-03-01,I10,99213,1473.67,Specialist Visit,Provider 20
+M10772,Jonathan Rose,2025-02-03,F32.9,36415,343.09,Primary Care,Provider 9
+M29630,Bradley Hernandez,2025-03-05,E78.5,93000,1332.25,ER,Provider 7
+M33664,Doris Smith,2025-02-10,N18.9,99395,913.11,Inpatient,Provider 12
+M59194,Marc Joyce,2024-12-11,R51,99215,1742.83,ER,Provider 4
+M91364,Ashley Torres,2025-02-27,N18.9,90471,1838.09,Pharmacy,Provider 2
+M55088,Carla Peterson,2025-04-11,E11.9,36415,1727.6,Lab,Provider 12
+M60335,Michael Allen,2025-07-23,E78.5,99214,492.27,Specialist Visit,Provider 7
+M28643,Kevin Cooper,2025-07-04,I10,90471,583.74,Radiology,Provider 19
+M37074,Joshua Wilson,2025-03-30,I10,93000,364.33,Preventive,Provider 11
+M76702,Melissa Smith,2025-05-05,Z00.00,81001,774.34,Specialist Visit,Provider 7
+M56367,Tammy Collins,2025-03-31,Z00.00,85025,1644.47,Radiology,Provider 16
+M96510,Jenny Acevedo,2025-08-29,E11.9,93000,488.98,Preventive,Provider 7
+M81146,Joshua Doyle,2025-06-01,J45.909,99214,151.92,Specialist Visit,Provider 19
+M48289,Shawn Miller,2025-02-21,E78.5,99395,358.19,ER,Provider 13
+M28657,Randy Fernandez,2024-12-24,E78.5,80053,1394.34,Pharmacy,Provider 11
+M86766,Sara Roberson,2025-05-07,E11.9,36415,778.37,Preventive,Provider 7
+M22740,Meghan Cruz,2025-08-17,I10,81001,1697.43,Specialist Visit,Provider 2
+M46817,Christopher Hodge,2024-11-25,R51,36415,835.74,Preventive,Provider 18
+M63004,Faith Henry,2025-10-10,M54.5,85025,332.94,Primary Care,Provider 13
+M63576,Jessica Hamilton,2025-03-09,F32.9,36415,285.94,Primary Care,Provider 12
+M90293,Andre Martinez,2025-07-23,R51,93000,195.22,Preventive,Provider 4
+M95373,Linda Merritt,2025-06-02,Z00.00,80053,981.91,Primary Care,Provider 17
+M32768,Jessica Lloyd,2024-12-07,N18.9,36415,396.45,Preventive,Provider 11
+M70363,Derrick Hunter,2025-08-22,N18.9,99215,588.49,Primary Care,Provider 9
+M72305,Olivia Gibbs,2024-11-22,E78.5,90471,1636.83,Lab,Provider 7
+M67936,Kathryn Thomas,2025-03-27,E11.9,90471,667.26,ER,Provider 12
+M27793,Sara Frye,2025-04-13,I10,99215,1389.54,Lab,Provider 1
+M17927,Amy Willis,2025-04-15,I10,80053,384.26,Radiology,Provider 20
+M49829,Laura Anderson,2024-12-02,E11.9,99395,1700.04,Preventive,Provider 16
+M97514,Steven Harris,2025-09-08,I10,36415,1444.33,Lab,Provider 20
+M96963,Jonathan Anderson,2025-04-14,J45.909,36415,797.42,ER,Provider 8
+M25148,Jennifer Floyd,2025-07-17,J45.909,81001,478.16,Inpatient,Provider 13
+M63813,Kathleen Robbins,2025-03-07,Z00.00,36415,1896.44,Preventive,Provider 7
+M45835,Laura Torres,2025-03-20,K21.9,99395,1998.42,Specialist Visit,Provider 6
+M65669,Angela Hayes,2025-07-30,E11.9,80053,1949.63,Lab,Provider 19
+M65297,Caitlin Richards,2025-10-15,N18.9,90471,193.04,Radiology,Provider 5
+M69418,Michelle Ramirez,2025-09-17,N18.9,99395,1186.98,Primary Care,Provider 6
+M36985,Paul Duncan,2025-11-03,I10,99213,1443.81,Lab,Provider 14
+M76081,Mario Martin,2025-11-06,R51,80053,143.09,Primary Care,Provider 20
+M31370,Patricia Johnson,2025-01-06,F32.9,93000,827.23,Lab,Provider 18
+M30069,George Ortiz,2025-03-14,K21.9,99215,156.73,Inpatient,Provider 4
+M66922,Morgan Rojas,2025-05-07,M54.5,99395,1704.79,Preventive,Provider 10
+M67616,Christopher Perkins,2025-02-17,J45.909,85025,776.85,Radiology,Provider 1
+M82946,Michael Johnson,2025-05-06,E78.5,81001,839.74,Specialist Visit,Provider 17
+M89971,Rachel Schneider,2025-02-16,J45.909,85025,475.46,Radiology,Provider 18
+M48879,Dr. Larry Curry,2025-09-06,R51,90471,856.27,Inpatient,Provider 15
+M16745,Casey Campos,2024-11-29,R51,36415,1999.36,Pharmacy,Provider 8
+M10334,Robin Jackson,2025-07-31,F32.9,99214,509.1,Inpatient,Provider 4
+M91082,Brittany Smith,2025-10-28,M54.5,85025,260.85,Inpatient,Provider 5
+M57505,Nicole Grant,2025-07-08,N18.9,90471,1486.59,Inpatient,Provider 2
+M21639,Sean Cruz,2024-12-09,I10,85025,1173.01,Radiology,Provider 3
+M15589,Jodi Chan,2025-02-23,E11.9,99214,291.07,Lab,Provider 2
+M54690,Derek Collins,2025-10-19,I10,99215,1056.11,Primary Care,Provider 5
+M89327,Nicole Rangel,2024-12-03,E78.5,81001,213.98,Radiology,Provider 17
+M34999,James Lewis,2025-03-20,R51,93000,176.28,Radiology,Provider 18
+M11019,Howard Davis,2025-02-19,K21.9,85025,904.76,Pharmacy,Provider 10
+M41110,Michael Lee,2025-03-17,I10,99395,931.98,Specialist Visit,Provider 13
+M83694,Jessica Camacho,2025-04-19,R51,93000,1843.25,Radiology,Provider 4
+M37672,Sylvia Jones,2025-06-04,E78.5,99215,439.93,Lab,Provider 1
+M22412,Richard Lowery,2025-06-16,E11.9,85025,379.16,Specialist Visit,Provider 14
+M32564,Lauren Moore,2025-07-20,R51,90471,1257.56,Inpatient,Provider 20
+M69991,Kim Jones,2025-05-19,K21.9,99215,1112.08,Specialist Visit,Provider 10
+M17193,Ryan Ramsey,2025-03-02,E78.5,99213,1335.21,Lab,Provider 12
+M30033,Colleen Kelley,2025-10-19,M54.5,81001,1296.61,ER,Provider 5
+M97897,Christopher Noble,2025-06-03,M54.5,81001,1282.31,Specialist Visit,Provider 13
+M72954,James Wilcox,2025-01-09,J45.909,93000,498.35,Preventive,Provider 17
+M86936,Ms. Denise Carpenter DDS,2025-07-31,E11.9,81001,1289.96,Specialist Visit,Provider 10
+M46739,Dustin Allen,2025-09-28,M54.5,93000,984.69,Lab,Provider 4
+M20687,Shawn Williams,2025-02-04,I10,81001,1482.05,Primary Care,Provider 8
+M96007,Philip Foster,2025-09-29,K21.9,36415,128.11,Radiology,Provider 1
+M86459,Sharon Jones DVM,2025-10-13,M54.5,99395,434.24,Lab,Provider 4
+M99044,Sarah Allen MD,2025-09-04,M54.5,99215,109.73,Radiology,Provider 4
+M86901,Melissa Turner,2025-07-21,E11.9,85025,1686.58,Pharmacy,Provider 20
+M47484,Tony Brady,2025-06-30,K21.9,99215,1440.3,Preventive,Provider 20
+M74991,Patrick Rosario,2025-02-26,K21.9,90471,728.45,Pharmacy,Provider 12
+M91034,Ann Moran,2025-03-02,Z00.00,99395,1751.46,Radiology,Provider 13
+M81618,Adrian Stevens,2025-01-26,R51,99395,603.47,Inpatient,Provider 13
+M97327,Amanda Romero,2025-05-02,K21.9,85025,1286.97,Radiology,Provider 3
+M42015,Christopher Pugh,2024-12-14,E11.9,81001,579.73,Lab,Provider 13
+M87157,Brian Munoz,2025-02-08,M54.5,93000,696.58,Radiology,Provider 4
+M80451,Felicia Brown,2025-03-09,N18.9,81001,450.91,Specialist Visit,Provider 3
+M17291,Christopher Mccarty,2025-02-23,K21.9,99214,923.63,Specialist Visit,Provider 3
+M10895,Alicia Peterson,2025-01-19,R51,36415,1244.84,Preventive,Provider 10
+M77612,Alexandra Johnson,2025-02-21,I10,99395,1307.42,Inpatient,Provider 17
+M57426,Matthew Roberts,2025-05-19,E78.5,36415,1847.38,Preventive,Provider 4
+M85895,Jennifer Gillespie DVM,2025-10-16,N18.9,85025,657.21,Primary Care,Provider 3
+M44313,Sean White,2025-11-08,R51,93000,1965.04,Pharmacy,Provider 4
+M42975,Barbara West,2025-01-02,M54.5,90471,174.53,Inpatient,Provider 5
+M51732,Sherry Bryant,2025-02-16,Z00.00,80053,812.77,Preventive,Provider 5
+M61204,Kimberly Stone,2025-03-27,Z00.00,99395,924.26,Pharmacy,Provider 15
+M27842,Kathy Hunt,2025-04-06,K21.9,99214,1602.51,Pharmacy,Provider 9
+M51821,Ashley Wells,2024-12-21,E11.9,99214,878.7,Radiology,Provider 16
+M85329,Leslie Lewis,2025-08-07,I10,85025,1388.0,ER,Provider 10
+M56114,Tabitha Miranda MD,2025-07-15,F32.9,99213,226.7,Primary Care,Provider 7
+M40727,Cynthia Ramsey,2025-07-11,I10,81001,1479.31,Specialist Visit,Provider 3
+M99885,Aaron Knight,2025-05-18,E11.9,93000,1532.24,Lab,Provider 19
+M58788,Hannah Mora,2024-11-25,E11.9,99214,1072.74,Pharmacy,Provider 19
+M39741,Michael Chen,2025-03-27,J45.909,99395,1402.17,ER,Provider 16
+M31239,Glenn Price,2025-05-31,I10,99213,956.07,ER,Provider 20
+M66432,Bailey Bolton,2025-06-18,J45.909,36415,1154.65,Radiology,Provider 4
+M92874,John Johnson,2025-07-02,E78.5,85025,917.46,Radiology,Provider 3
+M44866,Timothy Murray,2024-12-15,R51,81001,1879.06,Lab,Provider 8
+M75052,Christopher Mccann,2024-12-13,E78.5,93000,314.21,Pharmacy,Provider 8
+M79166,Pamela Deleon,2025-01-09,M54.5,99215,845.43,Radiology,Provider 2
+M57314,Anthony Bradley,2025-06-06,I10,81001,1626.67,Primary Care,Provider 4
+M73920,Eric Miller,2025-03-20,J45.909,85025,118.28,Radiology,Provider 2
+M43907,Timothy Garcia,2025-03-13,K21.9,81001,238.26,ER,Provider 9
+M45468,Michael Martinez,2025-11-06,E78.5,81001,566.87,Preventive,Provider 13
+M22072,Benjamin Vaughan,2025-01-07,N18.9,99215,1861.49,Primary Care,Provider 6
+M43922,Elizabeth Hernandez,2025-11-07,E11.9,81001,1724.64,Specialist Visit,Provider 11
+M69873,Gregory Jackson,2025-09-27,F32.9,99395,181.95,ER,Provider 4
+M50101,John White,2025-11-06,I10,85025,462.52,ER,Provider 20
+M30672,Jonathan Kerr,2025-10-21,K21.9,99213,1445.35,Specialist Visit,Provider 18
+M90687,Kara Whitaker,2025-02-17,R51,99395,1981.23,ER,Provider 3
+M48068,Robert Hansen,2025-01-22,E11.9,81001,55.67,Inpatient,Provider 14
+M50666,John Dickson,2025-05-12,R51,99214,262.93,Primary Care,Provider 6
+M34790,David Chavez DDS,2025-09-27,R51,80053,503.98,Primary Care,Provider 1
+M13407,Jeffery Santana,2025-07-09,E11.9,93000,280.4,Pharmacy,Provider 5
+M18170,Danielle Chavez,2025-10-08,E78.5,99213,1657.22,Primary Care,Provider 15
+M47846,David Carr,2025-08-18,R51,99395,259.08,Specialist Visit,Provider 2
+M31947,Nicholas Evans,2025-09-14,Z00.00,85025,760.24,ER,Provider 9
+M38977,Robert Villarreal,2025-04-22,F32.9,81001,662.72,Primary Care,Provider 9
+M54555,Joshua Dean,2025-10-17,J45.909,99214,1090.46,ER,Provider 9
+M45364,Scott Hill,2024-12-10,N18.9,99213,1510.31,Lab,Provider 12
+M56586,Michael Logan,2025-03-15,I10,93000,309.55,Primary Care,Provider 18
+M28982,Dillon Brown,2025-07-17,R51,80053,1851.91,Pharmacy,Provider 13
+M27152,Michelle Robinson,2025-02-02,N18.9,80053,481.6,Primary Care,Provider 9
+M85262,Joe Bennett,2025-01-25,N18.9,99213,657.71,Lab,Provider 11
+M77985,James Anderson,2025-10-17,R51,93000,1518.18,Pharmacy,Provider 12
+M11705,Andrew Reilly,2025-08-19,R51,99215,176.19,Inpatient,Provider 4
+M23864,Claire Thomas,2024-12-13,F32.9,36415,1246.61,Preventive,Provider 19
+M38823,Lisa Garcia,2025-10-10,F32.9,99213,1929.8,Primary Care,Provider 2
+M58044,Seth Smith,2024-11-15,Z00.00,90471,1678.56,Preventive,Provider 5
+M76996,Melissa Perez,2025-03-16,E78.5,80053,990.09,Preventive,Provider 11
+M71553,Patricia Carlson,2025-03-05,Z00.00,36415,716.5,ER,Provider 17
+M85391,Michael Lucas,2025-03-13,R51,99213,1429.06,Specialist Visit,Provider 12
+M62686,Isaac Cruz,2025-02-11,M54.5,99395,1388.72,Radiology,Provider 3
+M45068,Ana Jackson,2024-12-11,M54.5,36415,1766.23,Specialist Visit,Provider 16
+M70792,Whitney Crawford,2025-06-01,R51,81001,741.43,Lab,Provider 6
+M41366,Clayton French,2024-12-31,N18.9,99213,1393.49,ER,Provider 7
+M59203,Sarah Hensley,2025-09-02,I10,90471,555.99,Primary Care,Provider 14
+M27619,Richard Hood,2025-08-18,E78.5,85025,1154.02,Pharmacy,Provider 6
+M72234,Andrew Cervantes,2025-01-08,N18.9,99215,1742.01,Lab,Provider 20
+M84496,Michael Hudson,2025-07-29,K21.9,99214,1403.82,Pharmacy,Provider 13
+M49258,Jessica Boyer,2025-05-13,J45.909,99213,713.17,ER,Provider 8
+M58999,Brittany Little,2025-01-23,F32.9,90471,100.56,Pharmacy,Provider 9
+M53067,Kevin Doyle,2025-01-08,F32.9,99214,1289.64,Lab,Provider 7
+M25532,Nicole Hardin,2025-03-31,K21.9,81001,1735.49,Radiology,Provider 14
+M68757,Lisa Dean,2025-10-10,R51,99213,366.55,Radiology,Provider 9
+M60485,Shannon Johnson,2025-06-30,M54.5,85025,1386.65,ER,Provider 18
+M34795,Sarah Riley,2025-04-07,E78.5,99215,137.23,Inpatient,Provider 14
+M44093,William Thomas,2024-11-21,F32.9,85025,678.95,ER,Provider 7
+M68203,Joseph Wiley,2025-08-27,E78.5,85025,323.69,Preventive,Provider 16
+M73690,Patrick Lucas,2025-08-10,E78.5,81001,632.1,Preventive,Provider 17
+M57065,Justin Thornton,2025-02-05,R51,99213,1329.06,Preventive,Provider 8
+M41312,Michelle Sanchez,2025-04-01,K21.9,99215,1938.61,Primary Care,Provider 13
+M80225,Jeffery Grant,2025-01-02,R51,93000,111.28,Inpatient,Provider 8
+M91241,Alicia Johnson,2025-05-28,K21.9,80053,178.09,Preventive,Provider 4
+M61054,David Carlson,2025-08-03,N18.9,99214,454.36,Pharmacy,Provider 12
+M57037,Joann Russell,2025-07-09,N18.9,90471,632.12,Preventive,Provider 20
+M20009,Robert Bailey,2025-03-22,I10,85025,965.97,Radiology,Provider 19
+M74278,Adam Roberts,2025-07-24,K21.9,99214,413.25,Primary Care,Provider 11
+M82488,Justin Castillo,2025-04-21,E11.9,99214,454.29,Preventive,Provider 10
+M80381,Carolyn Ashley,2025-10-25,I10,36415,1745.47,Inpatient,Provider 1
+M64575,Annette Walker,2025-05-18,Z00.00,81001,218.68,Pharmacy,Provider 10
+M48608,Manuel Armstrong,2025-08-23,Z00.00,85025,1233.86,Preventive,Provider 18
+M35669,Matthew Hanson,2025-10-26,Z00.00,93000,1438.21,Preventive,Provider 7
+M21668,Jeff Floyd,2025-10-31,J45.909,99214,908.46,Pharmacy,Provider 16
+M97198,Lauren Welch,2025-03-19,R51,99213,1475.0,Specialist Visit,Provider 15
+M60734,Miss Christine Nguyen,2024-12-01,N18.9,90471,1645.97,Pharmacy,Provider 13
+M31941,Paula Thompson PhD,2025-02-13,J45.909,99395,1318.87,Primary Care,Provider 12
+M90574,Karen Williams,2025-02-14,M54.5,81001,123.54,ER,Provider 13
+M30376,Ashley Vargas,2025-10-08,E11.9,99213,1368.51,Lab,Provider 8
+M30625,Destiny Roberts,2025-06-02,I10,36415,1216.44,Pharmacy,Provider 14
+M87658,Robert Rogers,2025-03-06,M54.5,80053,1967.23,Primary Care,Provider 18
+M90642,Zachary Hansen,2025-07-27,N18.9,99395,380.96,Primary Care,Provider 3
+M32087,Ellen Christian,2024-11-26,K21.9,99395,607.1,Preventive,Provider 9
+M57679,Kenneth Rogers,2025-09-04,I10,81001,1746.88,Pharmacy,Provider 16
+M24438,Leon Johnson,2025-02-12,F32.9,36415,464.03,Lab,Provider 13
+M86017,Ana Santos,2025-04-12,F32.9,99395,286.99,Radiology,Provider 4
+M25917,Caleb Wagner,2024-12-24,J45.909,99215,1303.78,Inpatient,Provider 6
+M41012,Wendy Beasley,2025-08-10,R51,80053,1945.18,Specialist Visit,Provider 13
+M80792,Keith Roberts,2025-04-24,I10,99395,1613.1,Pharmacy,Provider 12
+M71778,Edward Ward,2024-12-29,J45.909,81001,1261.0,Radiology,Provider 4
+M96762,Jasmin Cook,2025-01-22,I10,85025,1989.89,Lab,Provider 20
+M64504,Jamie Lee,2025-02-16,E78.5,99395,372.31,Radiology,Provider 1
+M42596,Michelle Jimenez,2025-10-02,F32.9,99395,1817.59,Preventive,Provider 18
+M95752,Jon Holland,2025-08-15,R51,99214,827.5,Specialist Visit,Provider 10
+M72807,Justin Hamilton,2025-09-19,M54.5,99214,461.05,Lab,Provider 17
+M43512,Heidi Knight,2025-09-22,N18.9,99215,1027.36,Primary Care,Provider 3
+M33820,Michelle Davis,2025-09-21,J45.909,90471,1974.87,Lab,Provider 8
+M83267,Jennifer Griffin,2025-07-04,E11.9,90471,599.47,Radiology,Provider 3
+M86599,James Brown,2025-06-19,E78.5,93000,1109.39,Lab,Provider 17
+M44639,Eric Hart,2025-07-01,F32.9,36415,918.67,Inpatient,Provider 10
+M12152,Amy Davis,2025-04-26,N18.9,99213,1754.14,Pharmacy,Provider 8
+M27120,Richard Lowery,2025-04-09,E11.9,36415,135.2,Specialist Visit,Provider 9
+M90723,Michelle Walker,2025-02-04,K21.9,80053,1843.54,Lab,Provider 13
+M80029,Kayla Johnson,2025-04-21,K21.9,80053,573.36,Primary Care,Provider 8
+M54026,Eric Crawford,2025-06-19,F32.9,90471,1126.75,Primary Care,Provider 2
+M30570,Catherine Williams,2025-04-12,E78.5,85025,1487.45,Radiology,Provider 14
+M94387,Mercedes Bates,2025-07-29,I10,90471,1624.53,ER,Provider 7
+M36258,April Miller,2025-03-03,E78.5,99215,410.22,Radiology,Provider 11
+M35791,Justin Greene,2025-05-10,J45.909,99213,636.11,Lab,Provider 8
+M66568,Brianna Marshall,2024-11-24,K21.9,99214,933.85,Preventive,Provider 3
+M35622,Amanda Tyler,2025-11-01,E78.5,80053,1431.2,Radiology,Provider 11
+M50629,Adam Davis,2024-12-07,J45.909,80053,1446.23,Preventive,Provider 3
+M42881,Ashley Williams,2025-10-02,I10,99215,333.39,Lab,Provider 20
+M80344,Diane Rodriguez,2025-08-04,R51,90471,666.04,Primary Care,Provider 17
+M93011,Cory Johnson,2025-05-31,R51,81001,159.66,Radiology,Provider 5
+M15750,Richard Rosario,2025-06-17,F32.9,90471,1217.87,Preventive,Provider 20
+M70503,Mary Landry,2025-03-16,J45.909,90471,541.18,Specialist Visit,Provider 16
+M41065,Robert Fitzgerald,2025-04-04,R51,99213,1044.12,Preventive,Provider 6
+M74549,Stacy Rollins,2024-11-15,R51,99213,875.03,Primary Care,Provider 10
+M26570,Johnny Patterson,2025-10-14,E78.5,90471,727.47,Pharmacy,Provider 13
+M61371,Timothy Blackburn,2025-07-14,I10,36415,1230.89,Radiology,Provider 20
+M61413,Benjamin Thompson,2025-10-25,M54.5,81001,410.83,Pharmacy,Provider 15
+M87684,Tiffany Garner,2025-03-15,K21.9,85025,269.25,Inpatient,Provider 12
+M81706,Bonnie Porter,2025-03-15,Z00.00,80053,867.94,Primary Care,Provider 18
+M98144,Christina Nelson,2025-06-01,I10,90471,335.08,Lab,Provider 11
+M82769,Mason Brown,2025-07-22,E11.9,81001,1096.56,Lab,Provider 4
+M93568,Rachel Macdonald,2025-08-06,J45.909,81001,1593.84,Pharmacy,Provider 10
+M67483,Sarah Butler,2025-01-18,Z00.00,99215,1316.38,Radiology,Provider 7
+M56847,Briana Baldwin,2025-01-31,Z00.00,99395,1647.43,Pharmacy,Provider 20
+M64566,Miss Beth Boyd,2025-04-27,E78.5,85025,644.58,Lab,Provider 1
+M38501,Tyler Lee,2025-06-13,F32.9,99395,1501.75,Primary Care,Provider 4
+M59359,Travis Wolf,2025-10-03,E11.9,81001,309.39,Primary Care,Provider 4
+M91718,Nathan Payne,2024-12-02,N18.9,81001,916.94,Pharmacy,Provider 3
+M33079,Cynthia Ewing,2025-04-11,E78.5,99213,534.87,Primary Care,Provider 12
+M16938,David Solomon,2025-04-01,N18.9,81001,1899.1,Inpatient,Provider 5
+M66642,Cynthia Cruz,2025-03-20,Z00.00,80053,566.44,ER,Provider 19
+M49814,Melissa Carpenter,2025-08-15,E11.9,80053,1091.06,Pharmacy,Provider 14
+M50018,Robert Wheeler,2025-02-13,R51,85025,1409.1,Pharmacy,Provider 19
+M30705,Joshua Graham,2025-05-01,I10,99395,1415.08,Specialist Visit,Provider 7
+M71235,Nancy Hamilton,2025-03-01,Z00.00,99213,346.26,Primary Care,Provider 13
+M83237,Ryan Olsen,2025-06-04,R51,81001,546.9,ER,Provider 4
+M42339,Aaron Jenkins,2025-08-31,K21.9,99214,1385.63,Inpatient,Provider 10
+M49464,Matthew Nunez,2025-03-11,F32.9,99215,1219.52,Radiology,Provider 3
+M39539,Megan Matthews,2025-07-24,R51,80053,642.42,Lab,Provider 14
+M68358,Alejandro Stephens,2024-11-25,J45.909,99213,1832.22,Primary Care,Provider 2
+M54204,Nichole Roberts,2025-06-11,K21.9,93000,1065.54,Radiology,Provider 11
+M50857,Heather Bailey,2025-09-01,I10,81001,562.52,Lab,Provider 12
+M59802,Diane Gay,2025-09-30,K21.9,99213,593.38,ER,Provider 13
+M65006,Andrea Delgado,2025-05-15,I10,93000,1396.27,Primary Care,Provider 5
+M14379,Erika Hernandez,2025-08-03,I10,36415,742.89,Inpatient,Provider 17
+M86090,Danielle Fox,2025-04-28,E11.9,80053,381.73,Primary Care,Provider 15
+M57139,Juan Cohen,2025-05-27,F32.9,90471,77.53,Inpatient,Provider 12
+M39495,Brianna Garrett,2025-10-02,M54.5,99214,556.94,Primary Care,Provider 14
+M30597,Benjamin Wheeler,2025-08-12,N18.9,85025,1268.26,Pharmacy,Provider 8
+M62469,James Williams,2025-02-18,Z00.00,93000,273.55,Pharmacy,Provider 15
+M95436,David Munoz,2025-09-07,E11.9,90471,834.71,ER,Provider 12
+M34645,Jennifer Larson,2025-07-09,E11.9,90471,742.53,Specialist Visit,Provider 14
+M93437,Robert Mathews,2025-01-16,M54.5,36415,61.86,Pharmacy,Provider 6
+M98203,Rachel Yates,2025-11-03,R51,99395,1617.94,Lab,Provider 6
+M69288,Cynthia Ellis,2024-12-04,R51,99214,1478.14,Primary Care,Provider 2
+M27403,Amanda Mckinney,2025-08-13,K21.9,85025,730.15,Primary Care,Provider 13
+M91826,Marcus Collins,2025-01-16,K21.9,90471,736.04,Lab,Provider 17
+M65917,Frank White,2025-02-27,N18.9,99395,1687.93,Lab,Provider 13
+M28892,Amber Knox,2025-01-26,F32.9,99215,1891.83,Preventive,Provider 11
+M51986,Nicholas Short,2025-08-03,F32.9,80053,922.51,Specialist Visit,Provider 16
+M23904,Benjamin Gardner,2025-09-16,E11.9,99213,1989.3,Primary Care,Provider 19
+M71425,Andrea Gordon,2025-05-04,I10,93000,714.02,ER,Provider 13
+M16487,Cindy Taylor,2025-08-07,R51,99214,1385.23,Primary Care,Provider 8
+M24427,Michaela Smith,2024-12-31,F32.9,99213,256.36,Inpatient,Provider 9
+M44279,Nancy Hatfield,2025-02-06,R51,99215,1483.9,Lab,Provider 10
+M61997,Billy Shaw,2024-11-26,K21.9,36415,1199.46,Inpatient,Provider 10
+M44654,Joy Simmons,2024-11-13,R51,99395,1891.0,Inpatient,Provider 11
+M79171,Kathleen Thomas,2025-01-20,J45.909,93000,1350.59,Pharmacy,Provider 20
+M56725,Chelsea Hughes,2024-11-29,E11.9,81001,492.56,Primary Care,Provider 10
+M90885,Laurie Flowers,2025-08-02,Z00.00,36415,497.62,Lab,Provider 14
+M39688,Jacob Patterson,2025-08-03,F32.9,99213,841.92,ER,Provider 8
+M29425,Christopher Howe,2025-08-01,E11.9,99214,1172.86,Lab,Provider 18
+M41528,Sandra Cross,2025-05-20,R51,85025,1677.24,ER,Provider 8
+M21355,Eric May,2025-09-08,N18.9,99395,739.2,Radiology,Provider 19
+M83554,Brandon Key,2024-11-27,M54.5,99215,858.04,ER,Provider 8
+M63998,Carlos Adkins,2025-10-23,F32.9,36415,398.37,Specialist Visit,Provider 4
+M75692,Cathy Brown,2025-03-07,M54.5,99213,597.61,Pharmacy,Provider 17
+M69163,Daniel Powers,2025-01-06,E11.9,99213,1011.69,Pharmacy,Provider 10
+M24105,Andres Franco,2025-04-17,N18.9,85025,388.55,Lab,Provider 16
+M83512,Victor Cantu,2025-06-03,R51,99213,697.53,Inpatient,Provider 11
+M41935,Jennifer Cross,2024-12-02,K21.9,85025,80.36,Inpatient,Provider 7
+M31151,Sandra Rivera,2024-11-28,K21.9,81001,605.73,Lab,Provider 12
+M44713,Brian Foley,2025-02-07,K21.9,99213,1109.38,Specialist Visit,Provider 2
+M43355,James Peterson,2025-01-25,K21.9,99215,1173.94,Pharmacy,Provider 1
+M80697,Crystal Cook,2025-02-14,R51,85025,1507.43,Primary Care,Provider 12
+M89166,Christopher Wilson,2025-07-08,K21.9,99214,272.66,Radiology,Provider 4
+M12563,Michael Carrillo,2024-11-16,M54.5,99395,1578.69,Pharmacy,Provider 6
+M58396,Sara Anthony,2025-09-14,Z00.00,90471,1291.7,ER,Provider 17
+M50420,Jesus Adams,2024-11-16,E78.5,93000,1892.08,Specialist Visit,Provider 13
+M64212,Dr. Timothy Mann,2025-06-17,K21.9,93000,1989.3,Pharmacy,Provider 17
+M24540,Brittany Fischer,2025-06-27,M54.5,85025,115.62,Specialist Visit,Provider 19
+M93935,Mercedes May,2025-05-19,J45.909,99215,1231.98,Primary Care,Provider 2
+M19204,Gina Davis,2025-06-29,J45.909,85025,1429.24,Lab,Provider 11
+M93092,Shirley Saunders,2025-10-02,M54.5,99214,1980.03,Specialist Visit,Provider 10
+M58291,Samuel Rogers,2025-10-02,I10,85025,1699.75,Lab,Provider 17
+M32710,Katie Garcia,2025-05-19,F32.9,99213,1166.28,Radiology,Provider 10
+M84579,Norma Peters,2025-03-21,E11.9,85025,767.36,Pharmacy,Provider 2
+M49332,Thomas Hall,2024-11-13,I10,99214,980.78,Inpatient,Provider 15
+M34100,Joshua Graham,2025-10-06,E78.5,80053,1280.43,Specialist Visit,Provider 16
+M40906,Angela Shannon,2025-10-10,K21.9,36415,1109.09,Radiology,Provider 18
+M69217,Stephen Holt,2024-11-22,E78.5,99395,98.93,Inpatient,Provider 18
+M76292,Michael Malone,2025-03-29,K21.9,99395,389.01,Specialist Visit,Provider 10
+M29827,David Bowen,2025-10-15,E11.9,80053,1801.19,Inpatient,Provider 15
+M30449,Jason Orr,2025-08-13,N18.9,99214,783.79,Primary Care,Provider 6
+M91903,Jill Douglas,2025-04-21,F32.9,99214,308.71,ER,Provider 18
+M13164,Jeremy Summers,2025-09-09,I10,99395,1280.4,Primary Care,Provider 13
+M46010,Rebecca Williams,2025-09-28,I10,99215,629.43,Preventive,Provider 12
+M47310,Jane Cooper,2025-09-17,K21.9,81001,176.04,Inpatient,Provider 6
+M61146,Jenna Payne,2025-07-04,I10,80053,1627.17,Lab,Provider 13
+M62343,Jill Mitchell,2025-05-04,J45.909,99215,90.25,Preventive,Provider 19
+M57658,Larry Johnson,2025-08-15,E78.5,99215,851.98,ER,Provider 13
+M33796,Jason Thomas,2024-12-09,J45.909,99395,930.37,Inpatient,Provider 4
+M86456,Lisa Pace,2025-03-12,I10,85025,1780.81,ER,Provider 6
+M90125,Erica Clark,2025-03-01,Z00.00,80053,1758.87,Inpatient,Provider 9
+M70217,Darrell Santos,2025-04-09,N18.9,36415,377.2,Radiology,Provider 19
+M73537,Edward Morrison,2024-11-18,E78.5,99213,1344.13,Specialist Visit,Provider 18
+M24134,Raymond Fitzpatrick,2025-05-16,F32.9,99215,1371.92,ER,Provider 6
+M60174,Kelly Molina,2025-01-08,J45.909,99214,580.89,Specialist Visit,Provider 17
+M37720,Johnathan White,2025-11-05,M54.5,85025,1678.78,Specialist Visit,Provider 17
+M82701,Mark Palmer,2025-06-30,I10,99214,1540.71,Primary Care,Provider 2
+M43555,Michelle Ortiz,2025-07-09,R51,93000,1329.9,Preventive,Provider 11
+M98799,Jeffrey Smith,2025-03-07,N18.9,80053,759.61,Radiology,Provider 18
+M18301,John Greer,2025-04-16,I10,81001,392.52,Inpatient,Provider 15
+M91022,Kevin Oconnor,2025-01-11,F32.9,99213,1915.8,Lab,Provider 19
+M93201,Timothy Zimmerman,2024-11-20,Z00.00,99214,1191.99,Lab,Provider 1
+M89333,Kevin Powers,2025-01-05,F32.9,99215,1647.53,Primary Care,Provider 9
+M23350,Patricia Powell,2025-04-12,J45.909,99213,747.4,Specialist Visit,Provider 2
+M73704,Emily Nguyen,2025-08-03,R51,90471,1455.72,Specialist Visit,Provider 3
+M47970,April Harris,2025-07-09,F32.9,81001,1462.35,Pharmacy,Provider 6
+M82093,Larry Butler,2025-09-20,M54.5,93000,209.74,Pharmacy,Provider 3
+M89222,Tina Martin,2025-03-28,E11.9,80053,445.71,Pharmacy,Provider 19
+M73661,Katie Hernandez,2025-09-18,E11.9,99214,1455.98,Lab,Provider 4
+M56823,Amanda Perry,2025-02-18,M54.5,93000,1034.83,Inpatient,Provider 3
+M81574,Tyler Wells,2025-03-14,N18.9,99395,370.86,Preventive,Provider 19
+M40994,Hannah Hall,2025-08-08,J45.909,36415,1018.73,Specialist Visit,Provider 16
+M46385,Eric Hickman,2025-09-02,K21.9,90471,789.37,ER,Provider 5
+M91847,Edward Boyd,2024-12-29,R51,93000,332.83,Lab,Provider 1
+M82561,Thomas Horton,2025-03-18,E11.9,93000,683.4,Specialist Visit,Provider 7
+M43945,Christina Webster,2025-09-05,E11.9,36415,167.05,Preventive,Provider 1
+M72934,Danny Warner,2025-06-06,K21.9,99214,1078.91,Preventive,Provider 15
+M12213,Devin Barrett,2025-03-19,N18.9,90471,849.5,Primary Care,Provider 10
+M57967,Richard Perry,2025-04-18,F32.9,99215,832.15,Pharmacy,Provider 17
+M42289,Christopher Owens,2024-11-15,K21.9,81001,1972.71,Preventive,Provider 9
+M89119,Joshua Anderson,2025-05-23,K21.9,81001,617.44,Radiology,Provider 18
+M57305,Tina Robertson,2025-01-22,I10,81001,1595.26,Pharmacy,Provider 15
+M97665,Karen Rosario MD,2025-07-15,M54.5,99214,1980.29,Preventive,Provider 11
+M56059,Angela Horne,2025-04-10,F32.9,99213,1873.97,Lab,Provider 12
+M76475,Tina Erickson,2025-09-08,F32.9,99395,495.41,ER,Provider 4
+M55623,Sandra Williams,2025-10-17,N18.9,99213,650.91,Radiology,Provider 1
+M13173,Jeffrey Gonzalez,2025-04-14,F32.9,99215,1001.0,Preventive,Provider 7
+M43586,Alan Brown,2025-08-21,N18.9,36415,1464.38,Primary Care,Provider 19
+M56718,Hector Brown,2025-08-31,F32.9,90471,553.25,Radiology,Provider 20
+M21496,Barbara Adams DDS,2025-02-17,F32.9,99214,1671.62,Inpatient,Provider 17
+M25362,Anthony Conrad,2025-07-18,R51,85025,83.07,Lab,Provider 3
+M59761,Jorge Walker,2024-11-28,Z00.00,99215,1276.11,Primary Care,Provider 1
+M13192,Julie Roman,2025-04-21,Z00.00,99214,665.61,Inpatient,Provider 15
+M74110,Mark Gordon,2025-02-12,M54.5,99214,886.84,Pharmacy,Provider 10
+M85544,Jennifer Johnson,2025-10-25,J45.909,99215,727.08,Preventive,Provider 17
+M70233,Jessica Lopez,2025-09-09,K21.9,90471,1670.11,Inpatient,Provider 12
+M31159,Gloria Henry,2025-09-09,E78.5,99214,662.7,Radiology,Provider 19
+M64629,Jamie Davis,2025-10-22,K21.9,99213,210.75,Inpatient,Provider 12
+M41470,Tara Brown,2025-04-22,N18.9,93000,463.73,Inpatient,Provider 6
+M88450,Mark Kerr,2025-05-21,F32.9,99214,1820.36,Inpatient,Provider 4
+M26021,Robert Jones,2025-06-22,Z00.00,80053,1254.83,Lab,Provider 10
+M47733,Kimberly Hill,2025-10-25,I10,36415,1699.32,Preventive,Provider 16
+M18257,John Thomas,2025-10-23,E78.5,90471,888.48,Primary Care,Provider 17
+M60806,Heidi Martinez,2025-03-10,Z00.00,93000,636.24,Primary Care,Provider 2
+M19997,Jennifer Conway,2025-10-13,E11.9,99213,1034.83,ER,Provider 9
+M67732,Miranda Franco,2025-02-28,F32.9,90471,1222.25,Pharmacy,Provider 16
+M73783,Richard Moyer,2025-10-24,I10,99215,962.5,Pharmacy,Provider 6
+M58898,Stephanie Payne,2025-01-29,K21.9,36415,1608.02,Primary Care,Provider 9
+M88169,Kathleen Murphy,2025-09-07,F32.9,99214,1463.4,ER,Provider 13
+M79098,John Hughes,2025-06-08,R51,99215,1012.74,ER,Provider 20
+M79296,Douglas Jackson,2025-03-25,E11.9,85025,1446.49,Radiology,Provider 11
+M95773,Katelyn Liu,2025-05-10,E78.5,85025,887.94,Inpatient,Provider 6
+M85041,Lauren Mckee,2025-05-06,E78.5,85025,1175.38,Lab,Provider 4
+M99490,Amy Stewart,2025-08-29,I10,85025,561.53,Primary Care,Provider 2
+M79032,Brandon Thomas,2025-01-15,I10,85025,691.46,Primary Care,Provider 2
+M50991,Jessica Johnson,2025-06-28,M54.5,85025,937.28,Radiology,Provider 8
+M90997,Evan Francis,2025-10-04,I10,99214,1483.73,ER,Provider 16
+M97801,Brenda Young,2025-07-17,K21.9,36415,981.85,ER,Provider 4
+M67705,Dawn Whitaker,2025-01-15,K21.9,99395,1891.19,Preventive,Provider 18
+M75044,Sharon Miller,2024-11-24,R51,93000,773.63,Specialist Visit,Provider 13
+M21533,Robert James,2025-06-02,F32.9,99395,1607.62,Pharmacy,Provider 12
+M24364,Jason Fitzpatrick,2025-05-02,N18.9,80053,1978.47,Primary Care,Provider 19
+M94303,Antonio Bray,2025-03-27,M54.5,81001,1090.53,ER,Provider 6
+M27031,Courtney Ochoa,2025-08-19,Z00.00,36415,1852.48,ER,Provider 5
+M55845,Phyllis Davis,2025-04-17,K21.9,99213,81.27,Preventive,Provider 1
+M23123,Brian Stewart,2025-05-26,K21.9,99215,1508.41,Radiology,Provider 20
+M29396,Gary Nguyen,2025-05-04,F32.9,93000,94.18,Inpatient,Provider 10
+M60740,Elizabeth Jackson,2025-01-07,M54.5,80053,1075.83,Radiology,Provider 9
+M50420,Luis Graham,2025-05-26,M54.5,36415,117.28,Lab,Provider 8
+M14218,Patrick Oneill,2025-10-18,N18.9,93000,1716.43,Preventive,Provider 18
+M98121,Nathan Clark,2025-01-27,I10,81001,1888.13,Primary Care,Provider 17
+M67506,Zachary Ayala,2024-11-21,Z00.00,99215,182.79,Lab,Provider 1
+M72387,Rebecca Andrews,2025-08-02,N18.9,81001,1742.13,ER,Provider 4
+M54807,Zachary Nichols,2025-06-01,E11.9,80053,253.95,Specialist Visit,Provider 15
+M48752,Todd Wolfe,2025-09-22,Z00.00,93000,1884.24,Preventive,Provider 16
+M57721,Cassandra Galvan,2025-02-08,N18.9,99213,1940.06,Lab,Provider 13
+M65230,Brian Hall,2025-02-02,R51,93000,836.26,Primary Care,Provider 8
+M69578,Matthew Anderson,2025-10-12,R51,99395,1383.81,Pharmacy,Provider 10
+M46038,Jamie Kelly,2025-06-26,N18.9,90471,159.73,Radiology,Provider 10
+M63384,Peter Stevens,2025-01-25,E11.9,99213,1851.66,Inpatient,Provider 4
+M60789,Donna Hunter,2025-10-25,N18.9,80053,1592.82,Primary Care,Provider 7
+M93473,Justin Scott,2025-05-30,J45.909,80053,114.93,ER,Provider 3
+M49214,Diane Ramirez,2025-11-06,F32.9,99395,503.18,Pharmacy,Provider 6
+M21557,Zachary Reese,2025-01-11,I10,36415,1012.12,Inpatient,Provider 14
+M61087,Mrs. Lisa Johnson,2025-07-13,J45.909,81001,1044.77,Pharmacy,Provider 18
+M44315,Tracy Henson,2025-03-14,I10,99213,1267.69,Specialist Visit,Provider 12
+M82505,Zachary Harper,2025-03-23,E11.9,81001,1926.63,Lab,Provider 6
+M26315,Morgan Wright,2025-02-20,E78.5,93000,1594.56,Radiology,Provider 10
+M45335,Beth Taylor,2025-10-26,Z00.00,85025,542.68,Lab,Provider 3
+M48058,Garrett Mitchell,2025-02-08,N18.9,99215,1597.97,Specialist Visit,Provider 18
+M23560,John Oliver,2025-07-22,E78.5,99214,176.21,Radiology,Provider 11
+M17726,Laurie Brown,2025-04-25,Z00.00,99215,974.83,ER,Provider 11
+M99693,Joseph Phillips,2024-12-19,E78.5,99395,293.74,Lab,Provider 7
+M16670,Alexis Alexander,2025-04-21,F32.9,99214,1556.24,ER,Provider 12
+M34163,Anthony Martinez,2025-03-12,J45.909,99215,833.55,ER,Provider 17
+M35703,Erika Thompson,2025-05-23,R51,90471,1535.74,Inpatient,Provider 12
+M44676,Elizabeth Moss,2025-05-25,K21.9,90471,54.25,Inpatient,Provider 4
+M96301,Casey Snyder,2025-08-23,K21.9,90471,330.83,Lab,Provider 3
+M15824,Chase Long,2024-11-12,R51,99214,1743.46,Primary Care,Provider 17
+M25310,Curtis Harris,2025-09-23,F32.9,80053,822.26,Radiology,Provider 1
+M56409,Lisa Lutz,2025-07-04,I10,81001,785.46,ER,Provider 1
+M36834,Emily Goodwin,2025-04-23,N18.9,99215,1633.65,Pharmacy,Provider 15
+M33846,Sergio Branch,2025-07-24,E78.5,93000,1494.43,Pharmacy,Provider 20
+M47789,Stephanie Ramsey,2025-09-26,N18.9,80053,892.81,Inpatient,Provider 11
+M21483,Gabriela Douglas,2025-10-22,K21.9,99214,1978.11,Inpatient,Provider 6
+M83760,Christopher Vazquez,2025-09-19,N18.9,85025,553.45,Preventive,Provider 16
+M96863,Kenneth Hill,2024-12-24,R51,90471,1443.79,ER,Provider 6
+M29652,Darlene Mercado,2025-05-03,M54.5,99213,76.0,Pharmacy,Provider 1
+M60651,Scott Pugh,2025-11-01,E11.9,93000,1413.08,Specialist Visit,Provider 19
+M62365,Matthew Simpson,2025-02-05,F32.9,93000,1829.88,Lab,Provider 10
+M86358,Stephanie Munoz,2025-01-01,K21.9,81001,1586.4,Pharmacy,Provider 13
+M23281,Brian Nguyen,2025-09-11,K21.9,93000,615.86,Pharmacy,Provider 5
+M55056,Marissa Mathis,2024-11-25,K21.9,81001,1134.85,ER,Provider 20
+M30203,Laura Thompson,2025-02-10,N18.9,80053,373.49,Inpatient,Provider 17
+M32178,Sheila Rodgers,2025-07-07,J45.909,85025,1531.3,Specialist Visit,Provider 1
+M65061,Patricia Daugherty,2025-05-05,F32.9,80053,216.22,Specialist Visit,Provider 10
+M12603,Audrey Brown,2025-04-26,R51,90471,1130.14,Primary Care,Provider 7
+M91432,Mary Hubbard,2025-07-12,E11.9,99213,1304.15,Primary Care,Provider 16
+M14722,Matthew Weber,2025-06-22,Z00.00,80053,912.78,Inpatient,Provider 1
+M90346,Melanie Moore,2025-04-03,M54.5,93000,294.58,Primary Care,Provider 12
+M23099,Mariah Williamson,2025-09-13,Z00.00,90471,534.82,Specialist Visit,Provider 19
+M12956,Michael Davis,2025-07-30,E11.9,36415,1541.0,Preventive,Provider 5
+M13471,Nathan Hall,2025-06-11,Z00.00,99213,1867.24,Radiology,Provider 18
+M20355,Christopher Lopez,2025-06-28,J45.909,99395,1426.07,ER,Provider 16
+M98148,Alison Kaiser,2024-11-14,F32.9,99214,287.35,Lab,Provider 7
+M68454,Henry Cruz,2024-12-04,Z00.00,36415,937.0,Radiology,Provider 6
+M29337,Daniel Figueroa,2024-11-29,K21.9,99215,778.13,ER,Provider 18
+M42407,Colleen Hurst,2025-01-15,R51,99395,652.78,Specialist Visit,Provider 1
+M46914,Manuel Young,2024-12-01,E78.5,36415,1348.7,Preventive,Provider 20
+M95739,Fernando Hoffman,2025-11-07,R51,99395,1287.86,Specialist Visit,Provider 18
+M42723,Angela Norris,2025-04-01,M54.5,93000,96.3,Lab,Provider 1
+M26907,Todd Vazquez,2025-01-11,E78.5,99214,511.67,Radiology,Provider 16
+M69602,Anthony Weiss,2025-10-12,E11.9,99395,1835.2,Radiology,Provider 7
+M30134,Frank Rodriguez,2024-11-14,Z00.00,99214,1280.57,Preventive,Provider 20
+M59615,Ann Meyers,2024-11-23,K21.9,99213,127.16,Radiology,Provider 7
+M79532,Kristin Kennedy,2025-04-06,Z00.00,99213,181.58,Primary Care,Provider 10
+M57245,Angela Frank,2025-10-25,I10,81001,1436.09,Radiology,Provider 15
+M45288,Matthew Foster,2025-10-09,K21.9,99395,1580.38,Inpatient,Provider 20
+M16892,David Wong,2025-05-20,N18.9,93000,1482.46,Pharmacy,Provider 12
+M22362,Robert Sherman,2024-12-11,E11.9,99213,1535.05,Specialist Visit,Provider 15
+M36699,Calvin Walker,2024-11-15,K21.9,81001,1453.8,ER,Provider 12
+M54502,Zoe Combs,2025-06-13,N18.9,85025,205.79,Primary Care,Provider 7
+M52957,Kristen Gordon,2025-03-23,K21.9,93000,194.08,Pharmacy,Provider 1
+M45324,Jenna Sims,2025-03-22,J45.909,85025,663.28,Pharmacy,Provider 14
+M15810,Gregory Terrell,2024-11-11,E78.5,85025,1312.33,Inpatient,Provider 18
+M91001,Dawn Wallace,2025-06-23,E78.5,85025,1871.27,Specialist Visit,Provider 11
+M64344,Andrew Paul,2025-03-11,K21.9,99215,1640.24,Pharmacy,Provider 3
+M82384,Casey Fuller,2025-06-04,Z00.00,90471,175.33,ER,Provider 13
+M85865,Angelica Day,2025-02-15,I10,99395,569.89,Specialist Visit,Provider 13
+M69910,Manuel Nixon,2025-08-24,J45.909,99214,1977.58,Radiology,Provider 19
+M66977,Kevin Yang,2025-05-12,F32.9,99213,638.51,Preventive,Provider 10
+M80534,Janet Tran,2024-11-16,M54.5,93000,1107.1,ER,Provider 16
+M46740,Marissa Dennis,2024-11-29,J45.909,90471,1366.83,Inpatient,Provider 14
+M88419,Jessica Walker,2024-11-22,I10,93000,580.1,Lab,Provider 4
+M80387,Anthony Guerrero,2025-03-19,J45.909,99395,1130.92,Radiology,Provider 15
+M60619,Emily Mccullough,2025-03-11,K21.9,99395,1059.74,Radiology,Provider 15
+M91018,Jillian Buck,2025-09-22,F32.9,99395,702.99,Primary Care,Provider 2
+M80866,Steven Freeman,2025-05-03,E78.5,36415,1343.77,Primary Care,Provider 20
+M80488,Jonathan Hamilton,2024-11-17,Z00.00,99215,1571.07,ER,Provider 14
+M17968,Michael Steele,2025-06-03,R51,36415,572.22,Primary Care,Provider 11
+M87223,Timothy Cowan,2025-04-11,I10,90471,1020.4,Lab,Provider 13
+M93821,Laura Jones,2025-05-24,Z00.00,99395,1197.56,Inpatient,Provider 18
+M75537,John Smith,2025-01-29,I10,93000,876.84,Lab,Provider 18
+M38050,David Wolf,2025-06-26,M54.5,99214,1075.3,Pharmacy,Provider 10
+M54030,Timothy Mcmahon,2025-02-20,J45.909,99395,191.05,Lab,Provider 6
+M86219,Kathleen Perez,2025-09-18,R51,99395,452.04,Inpatient,Provider 4
+M92907,Nathan Smith,2024-12-15,K21.9,99395,1535.06,Primary Care,Provider 1
+M19387,Audrey Davenport,2025-10-06,F32.9,85025,786.72,Primary Care,Provider 2
+M76194,Christy Walsh,2025-01-15,F32.9,80053,590.77,Preventive,Provider 8
+M80050,Matthew Brown,2025-04-15,K21.9,80053,219.86,ER,Provider 12
+M13243,Steven Henry,2025-09-18,J45.909,85025,1328.66,Specialist Visit,Provider 4
+M98872,Taylor Knight,2025-08-28,R51,99214,1643.12,Pharmacy,Provider 2
+M30130,Mario Jackson,2025-10-02,F32.9,99395,1531.69,Preventive,Provider 5
+M56244,Jose Russell,2025-09-19,J45.909,99214,465.17,Pharmacy,Provider 17
+M35048,Alec Nguyen,2025-03-04,K21.9,93000,790.43,Primary Care,Provider 8
+M72242,John Tucker,2025-02-01,N18.9,36415,1010.34,Specialist Visit,Provider 15
+M17951,Derrick Flynn,2025-09-22,K21.9,85025,255.46,Lab,Provider 15
+M69275,Austin Mercado,2025-10-17,N18.9,99395,861.72,Inpatient,Provider 11
+M62927,Hannah Murray,2024-12-18,I10,99214,1877.57,ER,Provider 9
+M80084,Christopher Quinn,2025-05-04,N18.9,90471,819.39,Pharmacy,Provider 19
+M26931,Cheryl Le,2025-07-30,M54.5,99213,358.14,Inpatient,Provider 2
+M65221,Dustin Morales,2025-04-30,I10,80053,1470.37,Preventive,Provider 15
+M47050,Jill Reed,2025-05-12,I10,93000,632.41,ER,Provider 8
+M16196,Christopher Thomas,2025-08-28,Z00.00,99395,66.59,Radiology,Provider 13
+M68706,Eric Whitaker,2025-06-29,R51,90471,151.82,Specialist Visit,Provider 5
+M58559,Nicole Clay,2025-02-25,Z00.00,81001,1736.03,Specialist Visit,Provider 10
+M61548,Jane Irwin,2025-10-06,J45.909,90471,426.03,ER,Provider 5
+M53757,Nathan Rodriguez,2025-10-24,J45.909,99215,798.0,Primary Care,Provider 7
+M45151,Zachary Stewart,2025-11-08,E78.5,36415,331.17,Pharmacy,Provider 18
+M27772,Ryan Larson,2025-10-14,Z00.00,93000,61.88,Primary Care,Provider 7
+M70334,Nicole Durham,2025-11-02,F32.9,93000,989.31,Primary Care,Provider 2
+M84473,Christine Durham,2024-12-14,K21.9,99215,1578.56,Inpatient,Provider 5
+M82953,Sierra Barry,2025-02-15,R51,99213,807.07,Lab,Provider 8
+M79255,Michael Sims,2025-04-20,E11.9,80053,1796.42,Lab,Provider 18
+M64131,Douglas Atkins,2025-01-25,K21.9,90471,391.82,Lab,Provider 3
+M61452,Corey Evans IV,2025-09-18,E11.9,36415,1897.02,Lab,Provider 10
+M12811,Daniel Farmer,2025-06-22,K21.9,85025,128.22,Pharmacy,Provider 9
+M24822,Mr. Daniel Phillips Jr.,2025-05-30,E11.9,90471,1706.45,ER,Provider 3
+M46202,Brent Gray,2025-05-21,I10,81001,728.72,ER,Provider 12
+M46808,Justin Copeland,2025-10-03,K21.9,93000,696.16,ER,Provider 8
+M33284,Eric Patel,2025-10-13,E11.9,99215,159.16,Pharmacy,Provider 12
+M25891,Philip Roberts,2025-05-01,J45.909,99395,1870.08,Lab,Provider 14
+M63813,Timothy Foster,2024-12-27,E78.5,80053,1632.08,Radiology,Provider 8
+M27462,Michael Miller,2025-04-28,M54.5,90471,324.65,Primary Care,Provider 1
+M64420,Stacy Bauer,2025-11-03,J45.909,99213,1108.33,Primary Care,Provider 8
+M74500,Terry King,2025-04-29,N18.9,85025,598.37,Lab,Provider 13
+M19166,David Kelley,2025-06-21,I10,81001,182.99,ER,Provider 4
+M87159,Charles Graham,2025-04-11,N18.9,81001,273.29,Inpatient,Provider 4
+M19663,Theresa Soto DDS,2025-04-08,K21.9,93000,1745.91,Specialist Visit,Provider 6
+M96836,Robert Perry,2025-08-09,F32.9,93000,1559.37,Specialist Visit,Provider 15
+M66537,Kristen Jones,2025-11-09,R51,90471,789.22,Specialist Visit,Provider 4
+M18691,Justin Browning,2025-06-05,K21.9,85025,155.31,Specialist Visit,Provider 4
+M31001,Benjamin Nguyen,2025-07-19,M54.5,93000,1264.27,Radiology,Provider 20
+M10573,Traci White,2025-01-28,R51,90471,1432.19,Lab,Provider 17
+M83996,Jennifer Wilson,2025-05-09,M54.5,99214,1235.06,Pharmacy,Provider 20
+M26935,Stephanie Smith,2024-12-03,R51,99395,89.2,ER,Provider 9
+M18891,Hannah Skinner,2025-09-26,Z00.00,99214,424.24,Preventive,Provider 19
+M91938,Allen Perry DVM,2025-03-16,M54.5,81001,1319.28,Primary Care,Provider 14
+M79315,Kimberly Smith,2025-07-16,Z00.00,81001,302.85,Inpatient,Provider 10
+M44564,Anthony Cervantes,2025-05-31,I10,99395,1221.61,Inpatient,Provider 12
+M95439,Nicholas Freeman,2025-04-16,Z00.00,99395,693.09,Specialist Visit,Provider 4
+M73862,Kaitlyn Matthews,2025-05-28,I10,99214,142.04,Primary Care,Provider 4
+M32390,Alyssa Arellano,2025-09-27,R51,93000,794.86,Pharmacy,Provider 4
+M91766,Lori Butler,2025-05-12,I10,99395,1447.43,Lab,Provider 15
+M60203,Jo Hancock,2025-07-19,K21.9,99215,1698.29,Primary Care,Provider 2
+M81047,Austin Nicholson,2025-07-15,J45.909,85025,624.4,Radiology,Provider 2
+M66621,Connie Goodman,2024-11-30,N18.9,93000,1029.57,Specialist Visit,Provider 1
+M38756,Deborah Cardenas,2025-08-24,Z00.00,80053,1817.85,Lab,Provider 15
+M60765,Sarah Wood,2024-11-22,J45.909,99213,216.87,Preventive,Provider 3
+M15266,Jennifer Jackson,2025-01-27,F32.9,99395,861.57,Specialist Visit,Provider 15
+M73134,Michael Norris,2025-04-25,Z00.00,36415,863.85,Preventive,Provider 14
+M36540,Jennifer Williams,2024-12-27,Z00.00,99214,275.7,Lab,Provider 14
+M85355,Rita White,2025-04-19,M54.5,99213,728.94,Lab,Provider 7
+M70749,Kathleen Lang,2025-07-01,E11.9,90471,117.64,Inpatient,Provider 13
+M10206,Lauren Hardin,2025-06-03,F32.9,80053,1490.43,Lab,Provider 5
+M53962,Ashley Edwards,2025-05-23,K21.9,93000,914.18,Lab,Provider 18
+M65989,Richard Hoffman,2025-08-16,J45.909,36415,1526.23,Specialist Visit,Provider 20
+M34852,Charles Gordon,2025-11-07,Z00.00,99215,617.47,Inpatient,Provider 9
+M26161,Alexandra Howard,2025-06-18,K21.9,99213,242.05,Primary Care,Provider 11
+M95581,Eric Stanley,2025-03-20,E78.5,99213,1009.98,Preventive,Provider 16
+M50458,Michael Figueroa,2025-02-19,E78.5,99215,1925.59,Inpatient,Provider 17
+M45476,Tabitha Livingston,2025-04-24,K21.9,99214,319.98,ER,Provider 20
+M48438,Elizabeth Newman,2025-05-30,N18.9,99395,1570.96,Primary Care,Provider 16
+M39633,James Sweeney,2025-11-09,K21.9,99213,177.16,Pharmacy,Provider 2
+M68866,Christopher Gonzalez,2025-07-12,E11.9,99395,1007.59,Primary Care,Provider 19
+M25795,Phillip Graham,2025-08-09,R51,99215,1497.84,Primary Care,Provider 8
+M20219,Jim Burns,2025-10-06,E11.9,85025,853.89,Inpatient,Provider 13
+M40836,Megan Knight,2025-02-13,R51,85025,1300.71,Inpatient,Provider 15
+M74556,Alvin Hickman,2025-08-03,K21.9,99395,146.16,Specialist Visit,Provider 3
+M71413,Erin Boyle,2024-12-30,E78.5,90471,824.63,Radiology,Provider 10
+M41143,Caitlin Rosario,2024-11-12,J45.909,81001,1340.41,Specialist Visit,Provider 6
+M13465,Victoria King,2024-12-02,I10,93000,1901.47,Pharmacy,Provider 9
+M15391,John Gray,2024-12-28,M54.5,81001,1684.9,Radiology,Provider 6
+M16537,April Young,2025-04-18,N18.9,81001,376.69,Radiology,Provider 19
+M25418,Heather Atkins,2025-10-25,Z00.00,99215,1774.99,Inpatient,Provider 7
+M42341,Lucas Floyd,2025-07-29,E78.5,90471,963.28,Primary Care,Provider 9
+M32381,Michael Moore PhD,2025-01-17,Z00.00,81001,1901.46,Primary Care,Provider 14
+M22504,Valerie Padilla,2025-06-18,R51,99213,1885.09,Radiology,Provider 13
+M32886,Nicholas Patterson,2025-04-10,E11.9,36415,1641.76,Pharmacy,Provider 15
+M98467,Kathryn Bailey,2025-07-24,N18.9,36415,1202.18,Lab,Provider 18
+M35991,Tiffany Mckay,2024-12-09,I10,90471,1856.75,Preventive,Provider 10
+M87400,Mark Moore,2024-11-18,N18.9,99213,482.68,Pharmacy,Provider 12
+M12378,Jeffrey Perez,2025-08-05,Z00.00,99395,1025.1,Lab,Provider 12
+M80373,Meagan Maxwell,2024-11-25,Z00.00,99213,1212.53,Preventive,Provider 12
+M37937,Michelle Lamb,2025-11-10,E78.5,81001,370.51,Specialist Visit,Provider 6
+M43367,Jasmine Torres,2025-03-02,E11.9,99215,439.01,Preventive,Provider 3
+M42991,Joseph Caldwell,2025-02-18,Z00.00,36415,1845.76,ER,Provider 11
+M67973,Douglas Thomas,2025-07-29,F32.9,99214,951.96,Specialist Visit,Provider 13
+M34472,Tommy Hall,2025-03-20,M54.5,85025,113.43,Pharmacy,Provider 13
+M69043,Hannah Frank,2025-01-21,F32.9,85025,360.99,Inpatient,Provider 4
+M43711,Pamela Travis,2025-06-02,E11.9,85025,1549.51,Primary Care,Provider 13
+M40984,Frank Glass,2025-04-18,E11.9,36415,482.54,Pharmacy,Provider 9
+M33518,Lori Sanchez,2025-01-22,F32.9,99214,1123.55,Primary Care,Provider 13
+M60215,Samantha Harvey,2025-06-09,I10,80053,538.69,Radiology,Provider 4
+M45964,Ryan Ingram,2025-07-13,E78.5,90471,1756.47,Preventive,Provider 11
+M81494,Eric Wilson,2025-07-26,K21.9,99213,1816.44,Primary Care,Provider 8
+M49440,Mary Price,2025-08-04,M54.5,85025,774.78,Lab,Provider 11
+M14474,Toni Taylor,2025-02-22,E11.9,85025,191.73,Inpatient,Provider 16
+M46568,Mrs. Jennifer Saunders,2025-10-19,F32.9,93000,1651.54,Preventive,Provider 20
+M91010,Miss Veronica Carrillo,2025-05-09,Z00.00,80053,277.17,ER,Provider 18
+M58480,Marc Kim,2025-04-06,Z00.00,99213,1962.44,Pharmacy,Provider 20
+M89627,Thomas Davis,2025-05-17,Z00.00,99213,1257.71,Inpatient,Provider 7
+M73833,Jerry Williamson,2025-10-26,E78.5,99213,1700.64,ER,Provider 18
+M93441,Dr. Jennifer Gilmore,2025-07-25,E78.5,85025,374.13,Lab,Provider 10
+M12023,Phillip Freeman,2025-04-06,E11.9,90471,1068.67,Radiology,Provider 11
+M15451,Jaime Harvey,2024-12-22,F32.9,93000,1822.38,Preventive,Provider 1
+M91409,Samuel Wallace,2025-06-25,E11.9,93000,949.86,Radiology,Provider 10
+M86337,David Griffin,2025-09-26,E78.5,36415,1774.77,ER,Provider 11
+M58563,Kevin Mcgee,2025-09-16,M54.5,85025,474.58,Pharmacy,Provider 12
+M31648,Reginald Anderson,2025-04-09,E78.5,36415,1922.69,Specialist Visit,Provider 13
+M57515,Joshua Johnson,2025-10-28,N18.9,85025,1384.77,Radiology,Provider 9
+M47895,Diane Kim,2025-02-23,K21.9,36415,462.86,Preventive,Provider 7
+M51160,Stefanie Henderson,2024-11-17,N18.9,99214,532.88,Specialist Visit,Provider 10
+M11918,Jennifer Day,2024-12-24,I10,80053,584.03,Inpatient,Provider 3
+M43832,Scott Johnson,2024-11-21,K21.9,99214,289.71,ER,Provider 13
+M16811,Jeff Herrera,2025-07-16,M54.5,99214,1560.14,Lab,Provider 2
+M26555,John Austin,2025-09-29,N18.9,85025,1202.51,ER,Provider 2
+M90900,Megan Freeman,2025-03-29,K21.9,85025,864.36,Primary Care,Provider 19
+M45358,Carol Brown,2025-06-21,K21.9,93000,1261.15,Primary Care,Provider 1
+M73623,Casey Wilson,2025-06-09,I10,81001,1463.45,Pharmacy,Provider 14
+M72041,Margaret Mccall,2025-09-03,Z00.00,93000,1289.83,Specialist Visit,Provider 9
+M90320,Brianna Underwood,2025-01-09,E11.9,99214,1782.6,Primary Care,Provider 6
